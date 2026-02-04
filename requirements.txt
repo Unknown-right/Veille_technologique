@@ -1,0 +1,9 @@
+customtkinter
+feedparser
+requests
+pyyaml
+schedule
+beautifulsoup4
+python-dotenv
+spacy
+

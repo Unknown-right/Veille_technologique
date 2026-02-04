@@ -1,0 +1,12 @@
+app:
+  name: "IoT Security Watchdog"
+  version: "1.0.0"
+  refresh_interval_seconds: 3600 # 60 minutes
+  theme: "dark" # system, light, dark
+
+storage:
+  export_file: "data/security_watch_log.json"
+  auto_save: true
+
+logging:
+  level: "INFO"

@@ -1,0 +1,24 @@
+sources:
+  sensors_devices:
+    - name: "CNX Software - Embedded Systems"
+      url: "https://www.cnx-software.com/feed/"
+      keywords: ["firmware", "arm", "risc-v", "sensor", "exploit", "hardware", "mcu"]
+    - name: "Hackaday"
+      url: "https://hackaday.com/blog/feed/"
+      keywords: ["iot", "security", "hack", "esp32", "raspberry pi"]
+
+  network_transit:
+    - name: "The Hacker News"
+      url: "https://feeds.feedburner.com/TheHackersNews"
+      keywords: ["mqtt", "lorawan", "5g", "wi-fi", "protocol", "tls", "mitm", "zigbee", "bluetooth"]
+    - name: "SecurityWeek"
+      url: "https://feeds.feedburner.com/SecurityWeek"
+      keywords: ["network", "traffic", "interception", "ddos", "botnet"]
+
+  destination_storage:
+    - name: "Cloud Security Alliance"
+      url: "https://cloudsecurityalliance.org/blog/feed/"
+      keywords: ["database", "sql injection", "api", "cloud", "server", "backend", "leaked"]
+    - name: "Krebs on Security"
+      url: "https://krebsonsecurity.com/feed/"
+      keywords: ["data breach", "leak", "database", "admin"]
