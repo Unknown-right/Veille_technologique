@@ -1,0 +1,9 @@
+# Ignorer les fichiers d'environnement virtuel
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+.vscode/
+data/*.json
