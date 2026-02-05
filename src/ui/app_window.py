@@ -49,6 +49,9 @@ class AppWindow:
         self.tabview.pack(fill="both", expand=True, padx=10, pady=10)
 
         self.tabs = {
+            "operational_alerts": self.tabview.add("Alerts (CERT/Ops)"),
+            "institutional_standards": self.tabview.add("Standards (ANSSI/NIST)"),
+            "research_academic": self.tabview.add("Research (IEEE)"),
             "sensors_devices": self.tabview.add("Sensors & Devices"),
             "network_transit": self.tabview.add("Network & Transit"),
             "destination_storage": self.tabview.add("Destination & Storage"),

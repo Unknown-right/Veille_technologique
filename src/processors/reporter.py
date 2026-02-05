@@ -10,8 +10,8 @@ class GeminiReporter:
         if self.api_key:
             try:
                 genai.configure(api_key=self.api_key)
-                # Fallback to 'gemini-1.5-flash' via the latest alias which is usually more stable/accessible
-                self.model = genai.GenerativeModel('gemini-1.5-flash-latest')
+                # Using 'gemini-flash-latest' which was explicitly listed in available models
+                self.model = genai.GenerativeModel('gemini-flash-latest')
                 logging.info("Gemini Reporter initialized successfully.")
             except Exception as e:
                 logging.error(f"Failed to initialize Gemini: {e}")

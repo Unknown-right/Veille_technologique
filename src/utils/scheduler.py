@@ -12,7 +12,12 @@ class WatchdogScheduler:
         self.callback = callback
         self.report_callback = report_callback
         self.running = False
-        self.sources_config = self._load_sources()
+        
+        # Load full config first
+        self._full_config = self._load_full_config()
+        self.sources_config = self._full_config.get('sources', {})
+        self.search_watch_list = self._full_config.get('search_watch_list', [])
+        
         self.settings_config = self._load_settings()
         
         self.rss_fetcher = RSSFetcher()
@@ -23,11 +28,11 @@ class WatchdogScheduler:
         self.seen_links = set() 
         self.current_cycle_accepted = []
 
-    def _load_sources(self):
+    def _load_full_config(self):
         try:
             with open('config/sources.yaml', 'r') as f:
                 data = yaml.safe_load(f)
-                return data.get('sources', {})
+                return data if data else {}
         except Exception as e:
             print(f"Error loading sources: {e}")
             return {}
@@ -42,19 +47,32 @@ class WatchdogScheduler:
 
     def run_continuously(self):
         self.running = True
-        interval = self.settings_config.get('refresh_interval_seconds', 1800)
+        interval = self.settings_config.get('refresh_interval_seconds', 3600)
+        
+        last_search_time = 0
+        search_interval = 3600 # 1 hour for Google Search to save quota # USER REQUESTED: 3600s check
         
         while self.running:
             print("Starting collection cycle...")
-            self.collect_cycle()
+            current_time = time.time()
+            
+            # Determine if we should run Google Search this cycle
+            run_search = (current_time - last_search_time) >= search_interval
+            
+            self.collect_cycle(run_search=run_search)
+            
+            if run_search:
+                last_search_time = current_time
+            
             print(f"Cycle finished. Sleeping for {interval} seconds.")
             time.sleep(interval)
 
-    def collect_cycle(self):
+    def collect_cycle(self, run_search=False):
         self.current_cycle_accepted = [] # Reset for this cycle
 
         # 1. PROCESS RSS FEEDS
         for category, sources in self.sources_config.items():
+            # Standard RSS processing
             for source in sources:
                 url = source.get('url')
                 source_name = source.get('name')
@@ -64,28 +82,17 @@ class WatchdogScheduler:
                 self._process_items(items, source_name, category)
 
         # 2. PROCESS GOOGLE SEARCH (Active Monitoring)
-        print("Checking Google Search API...")
-        for category, sources in self.sources_config.items():
-            # Gather all unique keywords for this category from the config
-            all_keywords = set()
-            for source in sources:
-                if 'keywords' in source:
-                    all_keywords.update(source['keywords'])
+        if run_search:
+            print("Checking Google Search API (Specific Watch List)...")
             
-            if not all_keywords:
-                continue
-
-            # Construct a dynamic query: "IoT Security" AND (k1 OR k2 OR k3...)
-            # Limit to top 5 keywords to stay within API limits and query length restrictions
-            keywords_list = list(all_keywords)[:5]
-            if not keywords_list:
-                continue
-                
-            or_clause = " OR ".join([f'"{k}"' for k in keywords_list])
-            query = f'"IoT Security" AND ({or_clause})'
-                 
-            search_results = self.search_api.search(query)
-            self._process_items(search_results, "Google Search Watch", category)
+            if not self.search_watch_list:
+                print("  No 'search_watch_list' defined in config. Skipping search.")
+            
+            for query in self.search_watch_list:
+                # We use a generic category mostly for UI grouping
+                print(f"  Searching web for: {query}")
+                search_results = self.search_api.search(query)
+                self._process_items(search_results, "Google Search Watch", "network_transit")
 
         # 3. GENERATE REPORT (Gemini)
         if self.report_callback and self.current_cycle_accepted:

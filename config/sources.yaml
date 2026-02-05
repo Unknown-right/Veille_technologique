@@ -22,3 +22,39 @@ sources:
     - name: "Krebs on Security"
       url: "https://krebsonsecurity.com/feed/"
       keywords: ["data breach", "leak", "database", "admin"]
+
+  institutional_standards:
+    - name: "ANSSI (Agenc. Nat. Sécu. Syst. Info.)"
+      url: "https://cyber.gouv.fr/rss"
+      keywords: ["iot", "industriel", "guide", "certification", "secnumcloud", "guide hygiène"]
+    - name: "ENISA (EU Agency for Cybersecurity)"
+      url: "https://www.enisa.europa.eu/rss-feeds/news-wire/RSS"
+      keywords: ["cra", "cyber resilience act", "eucc", "certification", "IoT risk"]
+    - name: "NIST News"
+      url: "https://www.nist.gov/news-events/news/rss.xml"
+      keywords: ["nist ir 8259", "iot cybersecurity", "standard", "guidance"]
+    - name: "ETSI Standards"
+      url: "https://www.etsi.org/newsroom/news?format=feed"
+      keywords: ["en 303 645", "consumer iot", "standard", "cybersecurity"]
+    - name: "Connectivity Standards Alliance (Matter)"
+      url: "https://csa-iot.org/feed/"
+      keywords: ["matter", "protocol", "security", "smart home"]
+
+  operational_alerts:
+    - name: "CERT-FR (Alerte Cyber)"
+      url: "https://www.cert.ssi.gouv.fr/feed/"
+      keywords: ["iot", "scada", "ics", "vulnérabilité", "avis", "bulletin"]
+    - name: "Dark Reading (IoT)"
+      url: "https://www.darkreading.com/rss.xml"
+      keywords: ["iot", "embedded", "firmware", "attack", "scada"]
+
+  research_academic:
+    - name: "IEEE Internet of Things Journal (Recent)"
+      url: "https://ieeexplore.ieee.org/rss/TOC.XML?punumber=6488907"
+      keywords: ["security", "privacy", "cryptography", "blockchain", "authentication"]
+
+search_watch_list:
+  - "IoT firmware vulnerability exploit 2026"
+  - "Raspberry Pi zero-day security"
+  - "Industrial IoT ransomware attack"
+  - "Medical device legacy security patch"
