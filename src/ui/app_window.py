@@ -20,7 +20,7 @@ class AppWindow:
         self.msg_queue = queue.Queue()
         self.root.after(100, self.process_queue)
 
-        self.scheduler = WatchdogScheduler(self.on_new_item_found)
+        self.scheduler = WatchdogScheduler(self.on_new_item_found, self.on_report_generated)
         self.json_handler = JSONHandler()
 
     def setup_ui(self):
@@ -53,15 +53,24 @@ class AppWindow:
             "network_transit": self.tabview.add("Network & Transit"),
             "destination_storage": self.tabview.add("Destination & Storage"),
             "all": self.tabview.add("All Feed"),
-            "filtered": self.tabview.add("Filtered (Noise)")
+            "filtered": self.tabview.add("Filtered (Noise)"),
+            "report": self.tabview.add("Daily Analysis (Gemini)")
         }
 
         # Create scrollable frames for each tab
         self.scroll_frames = {}
         for key, tab in self.tabs.items():
+            if key == "report":
+                continue
             scroll_frame = ctk.CTkScrollableFrame(tab, label_text=f"Latest News - {key.replace('_', ' ').title()}")
             scroll_frame.pack(fill="both", expand=True)
             self.scroll_frames[key] = scroll_frame
+
+        # Setup Report Tab
+        self.report_textbox = ctk.CTkTextbox(self.tabs["report"], font=("Consolas", 14))
+        self.report_textbox.pack(fill="both", expand=True, padx=5, pady=5)
+        self.report_textbox.insert("0.0", "Waiting for data collection cycle to generate report...\n(Ensure GEMINI_API_KEY is set in .env)")
+        self.report_textbox.configure(state="disabled")
 
         # Status Bar
         self.status_bar = ctk.CTkLabel(self.root, text="System Ready", font=("Arial", 12))
@@ -69,18 +78,35 @@ class AppWindow:
         
     def on_new_item_found(self, item):
         """Callback when a new item is found by the collector thread"""
-        self.msg_queue.put(item)
+        self.msg_queue.put(('ITEM', item))
+
+    def on_report_generated(self, report_text):
+        """Callback when a report is generated"""
+        self.msg_queue.put(('REPORT', report_text))
 
     def process_queue(self):
         """Check queue for new items and update UI in the main thread"""
         try:
             while True:
-                item = self.msg_queue.get_nowait()
-                self._update_ui_with_item(item)
+                msg_type, data = self.msg_queue.get_nowait()
+                if msg_type == 'ITEM':
+                    self._update_ui_with_item(data)
+                elif msg_type == 'REPORT':
+                    self._update_report_tab(data)
         except queue.Empty:
             pass
         finally:
             self.root.after(100, self.process_queue)
+
+    def _update_report_tab(self, report_text):
+        self.report_textbox.configure(state="normal")
+        self.report_textbox.delete("0.0", "end")
+        self.report_textbox.insert("0.0", f"--- REPORT GENERATED AT {datetime.now().strftime('%H:%M:%S')} ---\n\n")
+        self.report_textbox.insert("end", report_text)
+        self.report_textbox.configure(state="disabled")
+        
+        # Switch to report tab to notify user
+        self.tabview.set("Daily Analysis (Gemini)")
 
     def _update_ui_with_item(self, item):
         category = item.get('category', 'all')
@@ -135,17 +161,40 @@ class AppWindow:
         # Link Button
         link_btn = ctk.CTkButton(
             card, 
-            text="Read Article", 
+            text="Open Link", 
             font=("Arial", 12),
             height=25,
-            width=100,
+            width=80,
             fg_color="#555555" if is_rejected else None, # Dimmed button
             hover_color="#777777" if is_rejected else None,
             command=lambda url=item['link']: webbrowser.open(url)
         )
         link_btn.pack(side="right", padx=10, pady=10)
 
+        # Content Button (New)
+        if item.get('content') and not is_rejected:
+            content_btn = ctk.CTkButton(
+                card, 
+                text="View Content", 
+                font=("Arial", 12),
+                height=25,
+                width=100,
+                command=lambda i=item: self.show_content_popup(i)
+            )
+            content_btn.pack(side="right", padx=5, pady=10)
+
+    def show_content_popup(self, item):
+        popup = ctk.CTkToplevel(self.root)
+        popup.title(f"Content: {item.get('title', 'Unknown')}")
+        popup.geometry("800x600")
+        
+        textbox = ctk.CTkTextbox(popup, font=("Consolas", 14))
+        textbox.pack(fill="both", expand=True, padx=10, pady=10)
+        textbox.insert("0.0", item.get('content', 'No content available.'))
+        textbox.configure(state="disabled")
+
     def export_data(self):
+
         saved_path = self.json_handler.get_file_path()
         self.status_bar.configure(text=f"Data exported successfully to {saved_path}")
 

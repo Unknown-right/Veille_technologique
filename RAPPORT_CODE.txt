@@ -1,0 +1,134 @@
+# RAPPORT TECHNIQUE - PROJET IOT SECURITY WATCHDOG
+# Date : 05 Février 2026
+# Sujet : Documentation technique des modules Python
+
+Ce document détaille le fonctionnement de chaque fichier Python du projet "IoT Security Watchdog".
+
+================================================================================
+1. RACINE DU PROJET
+================================================================================
+
+--- main.py ---
+Rôle : Point d'entrée de l'application.
+Fonctionnement :
+- Initialise l'interface graphique (AppWindow).
+- Lance la boucle principale de l'application (mainloop).
+- C'est le fichier à exécuter pour démarrer le programme (`python main.py`).
+
+================================================================================
+2. MODULE COLLECTORS (src/collectors/)
+================================================================================
+
+--- src/collectors/rss_fetcher.py ---
+Rôle : Récupération des flux RSS.
+Fonctionnement :
+- Utilise la bibliothèque `feedparser` pour lire les flux XML/RSS.
+- Extrait les informations essentielles : titre, lien, date de publication, résumé.
+- Standardise les données pour qu'elles soient compatibles avec le reste de l'application.
+
+--- src/collectors/search_api.py ---
+Rôle : Recherche active via Google Custom Search API.
+Fonctionnement :
+- Effectue des requêtes HTTP vers l'API Google Custom Search.
+- Construit des requêtes complexes (ex: "IoT Security" AND ("firmware" OR "exploit")).
+- Récupère les métadonnées des résultats (titre, lien, extrait).
+- Permet de trouver des articles qui ne sont pas dans les flux RSS suivis.
+
+================================================================================
+3. MODULE PROCESSORS (src/processors/)
+================================================================================
+
+--- src/processors/analyzer.py ---
+Rôle : Filtrage sémantique et classification (NLP).
+Fonctionnement :
+- Utilise `spaCy` (modèle `en_core_web_sm`) pour analyser le langage naturel.
+- Système de scoring :
+    - Score Technique : Augmente si des mots-clés techniques sont présents (ex: vulnerability, exploit, cve).
+    - Score Commercial : Augmente si des termes marketing sont détectés (ex: best buy, deal, offer).
+- Rejette les articles considérés comme du "bruit" (Score Commercial > Score Technique).
+- Tente de déduire la catégorie de l'article si elle n'est pas fournie.
+
+--- src/processors/scraper.py ---
+Rôle : Extraction du contenu complet des pages web.
+Fonctionnement :
+- Utilise `requests` pour télécharger le code HTML de la page.
+- Utilise `BeautifulSoup` pour nettoyer le HTML (retrait des pubs, menus, scripts).
+- Extrait le texte principal de la balise <article> ou du corps de la page.
+- Permet à l'IA d'analyser l'article entier et non juste son résumé.
+
+--- src/processors/reporter.py ---
+Rôle : Génération de rapports synthétiques avec IA (Google Gemini).
+Fonctionnement :
+- Utilise le SDK `google-generativeai` (Gemini 1.5 Flash).
+- Prend en entrée la liste des articles validés du cycle actuel.
+- Envoie un "prompt" (instruction) strict à l'IA pour générer un rapport en MarkDown.
+- Le rapport contient : synthèse des menaces, tendances, et conseils pratiques en Français.
+
+================================================================================
+4. MODULE UTILS (src/utils/)
+================================================================================
+
+--- src/utils/scheduler.py ---
+Rôle : Chef d'orchestre de la veille (threading).
+Fonctionnement :
+- Gère le cycle de collecte en arrière-plan pour ne pas bloquer l'interface.
+- Étapes d'un cycle :
+    1. Collecte RSS.
+    2. Recherche Google API (mots-clés dynamiques depuis config).
+    3. Filtrage via `analyzer.py`.
+    4. Scraping du contenu complet pour les articles acceptés via `scraper.py`.
+    5. Génération du rapport via `reporter.py` à la fin du cycle.
+- Envoie les résultats à l'interface graphique via un "callback".
+
+================================================================================
+5. MODULE STORAGE (src/storage/)
+================================================================================
+
+--- src/storage/json_handler.py ---
+Rôle : Persistance des données.
+Fonctionnement :
+- Sauvegarde les articles collectés dans un fichier JSON (`data/articles_YYYYMMDD.json`).
+- Gère la création du dossier `data` s'il n'existe pas.
+- Ajoute les nouveaux articles sans écraser les anciens (mode append/update).
+
+================================================================================
+6. MODULE UI (src/ui/)
+================================================================================
+
+--- src/ui/app_window.py ---
+Rôle : Interface Graphique Utilisateur (GUI).
+Fonctionnement :
+- Basé sur `customtkinter` pour un design moderne.
+- Affiche les articles dans des onglets par catégorie.
+- Onglet spécial "Filtered (Noise)" pour vérifier ce qui a été rejeté par l'IA/NLP.
+- Onglet spécial "Daily Analysis" qui affiche le rapport Gemini.
+- Utilise une file d'attente (`queue`) pour recevoir les données du Scheduler (Thread secondaire) et mettre à jour l'interface (Thread principal) sans planter.
+
+================================================================================
+7. CHAÎNE DE VEILLE TECHNOLOGIQUE (WORKFLOW)
+================================================================================
+
+Ce projet implémente une chaîne de veille complète et automatisée, structurée en 5 étapes clés :
+
+1. COLLECTE (Sourcing)
+   - Sources Passives : Surveillance continue de listes définies de flux RSS (ANSSI, CISA, blogs sécu) via `RSSFetcher`.
+   - Sources Actives : Interrogation dynamique de Google via `SearchAPI` pour découvrir des sources inconnues sur des mots-clés ciblés ("IoT Security", "Vulnerability", "Firmware").
+
+2. FILTRAGE INTELLIGENT (Filtering)
+   - Le module `ContentAnalyzer` (NLP/spaCy) agit comme un pare-feu sémantique.
+   - Il lit les résumés et différencie le contenu technique pertinent (vulnérabilités, patchs) du "bruit" commercial (promotions, produits IoT grand public).
+   - Les articles rejetés sont isolés dans l'onglet "Filtered (Noise)" pour vérification humaine potentielle.
+
+3. ENRICHISSEMENT (Scraping)
+   - Pour chaque article validé par l'étape de filtrage, le module `ContentFetcher` s'active.
+   - Il visite le lien d'origine et télécharge le texte intégral de l'article, dépassant la limite des résumés RSS souvent tronqués.
+
+4. ANALYSE COGNITIVE (Synthesis)
+   - Le texte enrichi est transmis au module `GeminiReporter`.
+   - L'Intelligence Artificielle (Gemini 1.5) lit l'ensemble des articles du cycle.
+   - Elle effectue une synthèse croisée pour produire le "Rapport de Veille" : identification des menaces critiques et déduction des tendances globales.
+
+5. DIFFUSION & STOCKAGE (Dissemination)
+   - Interface (UI) : Affichage classé par onglets pour une lecture rapide + Popup pour lire le contenu complet.
+   - Rapport : Mise à disposition du "Daily Analysis" pour la prise de décision.
+   - Archivage : Tous les articles pertinents sont sauvegardés en JSON (`JSONHandler`) pour constitution d'une base de connaissances historique.
