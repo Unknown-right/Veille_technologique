@@ -24000,5 +24000,2753 @@
         "status": "rejected",
         "content": "Content not fetched for filtered items.",
         "captured_at": "2026-02-05T23:59:37.812577"
+    },
+    {
+        "title": "$199+ M5Stack AI Pyramid Computing Box Linux AI mini PC is based on Axera AX8850 SoC",
+        "link": "https://www.cnx-software.com/2026/02/06/199-m5stack-ai-pyramid-computing-box-linux-ai-mini-pc-is-based-on-axera-ax8850-soc/",
+        "description": "<div><img alt=\"Axera AX8850 Linux Mini PC 4GB RAM Transparent case\" class=\"attachment-medium size-medium wp-post-image\" height=\"495\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/02/Axera-AX8850-Linux-Mini-PC-4GB-RAM-Transparent-case-720x495.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>M5Stack has just launched the &#8220;AI Pyramid Computer Box&#8221; AI mini PC powered by an Axera AX8850 octa-core Cortex-A55 SoC with a 24 TOPS NPU and an unusual design since it&#8217;s housed in a pyramidal enclosure. The mini PC features 4GB or 8GB of RAM, 32GB eMMC flash, a microSD card slot, two HDMI 2.0 ports (see specs for details), a 4-mic array, a built-in speaker, two Gigabit Ethernet ports, four USB 3.2 ports, and two USB-C ports for data and power. It serves as a desktop-grade Edge AI computing platform for systems such as AI vision gateways, smart security systems, and local smart photo albums. M5Stack AI Pyramid Computing Box specifications: SoC – Axera AX8850 CPU – Octa-core Cortex‑A55 processor at 1.7 GHz NPU – 24 TOPS @ INT8 VPU Video Encoder – 8K @ 30 fps H.264/H.265 encoding, supports scaling / cropping Video Decoder – 8K @ 60 fps H.264/H.265 decoding, supports 16 channels 1080p parallel decoding, supports [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/02/06/199-m5stack-ai-pyramid-computing-box-linux-ai-mini-pc-is-based-on-axera-ax8850-soc/\">$199+ M5Stack AI Pyramid Computing Box Linux AI mini PC is based on Axera AX8850 SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>",
+        "date": "Fri, 06 Feb 2026 08:10:10 +0000",
+        "raw_entry": {
+            "title": "$199+ M5Stack AI Pyramid Computing Box Linux AI mini PC is based on Axera AX8850 SoC",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cnx-software.com/feed/",
+                "value": "$199+ M5Stack AI Pyramid Computing Box Linux AI mini PC is based on Axera AX8850 SoC"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cnx-software.com/2026/02/06/199-m5stack-ai-pyramid-computing-box-linux-ai-mini-pc-is-based-on-axera-ax8850-soc/"
+                }
+            ],
+            "link": "https://www.cnx-software.com/2026/02/06/199-m5stack-ai-pyramid-computing-box-linux-ai-mini-pc-is-based-on-axera-ax8850-soc/",
+            "comments": "https://www.cnx-software.com/2026/02/06/199-m5stack-ai-pyramid-computing-box-linux-ai-mini-pc-is-based-on-axera-ax8850-soc/#respond",
+            "authors": [
+                {
+                    "name": "Jean-Luc Aufranc (CNXSoft)"
+                }
+            ],
+            "author": "Jean-Luc Aufranc (CNXSoft)",
+            "author_detail": {
+                "name": "Jean-Luc Aufranc (CNXSoft)"
+            },
+            "published": "Fri, 06 Feb 2026 08:10:10 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                8,
+                10,
+                10,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Audio",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Graphics",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hardware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Linux",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Processors",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ubuntu",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Video",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "arm",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "computer vision",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "generative ai",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "m5stack",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "mini pc",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "nvr",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "smart speaker",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "stm32",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ubuntu",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.cnx-software.com/?p=165035",
+            "guidislink": false,
+            "summary": "<div><img alt=\"Axera AX8850 Linux Mini PC 4GB RAM Transparent case\" class=\"attachment-medium size-medium wp-post-image\" height=\"495\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/02/Axera-AX8850-Linux-Mini-PC-4GB-RAM-Transparent-case-720x495.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>M5Stack has just launched the &#8220;AI Pyramid Computer Box&#8221; AI mini PC powered by an Axera AX8850 octa-core Cortex-A55 SoC with a 24 TOPS NPU and an unusual design since it&#8217;s housed in a pyramidal enclosure. The mini PC features 4GB or 8GB of RAM, 32GB eMMC flash, a microSD card slot, two HDMI 2.0 ports (see specs for details), a 4-mic array, a built-in speaker, two Gigabit Ethernet ports, four USB 3.2 ports, and two USB-C ports for data and power. It serves as a desktop-grade Edge AI computing platform for systems such as AI vision gateways, smart security systems, and local smart photo albums. M5Stack AI Pyramid Computing Box specifications: SoC – Axera AX8850 CPU – Octa-core Cortex‑A55 processor at 1.7 GHz NPU – 24 TOPS @ INT8 VPU Video Encoder – 8K @ 30 fps H.264/H.265 encoding, supports scaling / cropping Video Decoder – 8K @ 60 fps H.264/H.265 decoding, supports 16 channels 1080p parallel decoding, supports [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/02/06/199-m5stack-ai-pyramid-computing-box-linux-ai-mini-pc-is-based-on-axera-ax8850-soc/\">$199+ M5Stack AI Pyramid Computing Box Linux AI mini PC is based on Axera AX8850 SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cnx-software.com/feed/",
+                "value": "<div><img alt=\"Axera AX8850 Linux Mini PC 4GB RAM Transparent case\" class=\"attachment-medium size-medium wp-post-image\" height=\"495\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/02/Axera-AX8850-Linux-Mini-PC-4GB-RAM-Transparent-case-720x495.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>M5Stack has just launched the &#8220;AI Pyramid Computer Box&#8221; AI mini PC powered by an Axera AX8850 octa-core Cortex-A55 SoC with a 24 TOPS NPU and an unusual design since it&#8217;s housed in a pyramidal enclosure. The mini PC features 4GB or 8GB of RAM, 32GB eMMC flash, a microSD card slot, two HDMI 2.0 ports (see specs for details), a 4-mic array, a built-in speaker, two Gigabit Ethernet ports, four USB 3.2 ports, and two USB-C ports for data and power. It serves as a desktop-grade Edge AI computing platform for systems such as AI vision gateways, smart security systems, and local smart photo albums. M5Stack AI Pyramid Computing Box specifications: SoC – Axera AX8850 CPU – Octa-core Cortex‑A55 processor at 1.7 GHz NPU – 24 TOPS @ INT8 VPU Video Encoder – 8K @ 30 fps H.264/H.265 encoding, supports scaling / cropping Video Decoder – 8K @ 60 fps H.264/H.265 decoding, supports 16 channels 1080p parallel decoding, supports [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/02/06/199-m5stack-ai-pyramid-computing-box-linux-ai-mini-pc-is-based-on-axera-ax8850-soc/\">$199+ M5Stack AI Pyramid Computing Box Linux AI mini PC is based on Axera AX8850 SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+            },
+            "wfw_commentrss": "https://www.cnx-software.com/2026/02/06/199-m5stack-ai-pyramid-computing-box-linux-ai-mini-pc-is-based-on-axera-ax8850-soc/feed/",
+            "slash_comments": "0"
+        },
+        "matched_keyword": "security",
+        "category": "sensors_devices",
+        "source": "CNX Software - Embedded Systems",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T09:16:08.664097"
+    },
+    {
+        "title": "Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant",
+        "link": "https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/",
+        "description": "<div><img alt=\"Olimex HoT\" class=\"attachment-medium size-medium wp-post-image\" height=\"330\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/02/Olimex-HoT-720x330.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Olimex HoT (Home of Things) is a lightweight Smart Home solution designed to run on low-end hardware (128MB RAM, 128MB flash) and interface with nodes running ESPHome. It can serve as an easier-to-use alternative for people who don&#8217;t need all the bells and whistles provided by powerful home automation frameworks such as Home Assistant or OpenHAB. Home Assistant open-source home automation software is great, but it requires a system with at least 2GB of RAM, and 4GB of RAM is often recommended for most users. There&#8217;s also a steep learning curve. This is what Tsvetan Usunov, Olimex CEO, realized last year when he tried Home Assistant, and he decided to start working on a low-cost, easy-to-use solution for IoT and Smart Home applications. That&#8217;s why the Olimex HoT project was created. Tsvetan gave a talk about the project entitled &#8220;Designing EUR 20 Open Source Hardware running Free/Libre Open Source Software [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/\">Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>",
+        "date": "Fri, 06 Feb 2026 04:28:33 +0000",
+        "raw_entry": {
+            "title": "Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cnx-software.com/feed/",
+                "value": "Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/"
+                }
+            ],
+            "link": "https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/",
+            "comments": "https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/#respond",
+            "authors": [
+                {
+                    "name": "Jean-Luc Aufranc (CNXSoft)"
+                }
+            ],
+            "author": "Jean-Luc Aufranc (CNXSoft)",
+            "author_detail": {
+                "name": "Jean-Luc Aufranc (CNXSoft)"
+            },
+            "published": "Fri, 06 Feb 2026 04:28:33 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                4,
+                28,
+                33,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Allwinner T-Series",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Espressif",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hardware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Linux",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "OpenWrt",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "esphome",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "fosdem 2026",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "home assistant",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IoT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "open source",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "openwrt",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Single Board Computer",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "smart home",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.cnx-software.com/?p=164952",
+            "guidislink": false,
+            "summary": "<div><img alt=\"Olimex HoT\" class=\"attachment-medium size-medium wp-post-image\" height=\"330\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/02/Olimex-HoT-720x330.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Olimex HoT (Home of Things) is a lightweight Smart Home solution designed to run on low-end hardware (128MB RAM, 128MB flash) and interface with nodes running ESPHome. It can serve as an easier-to-use alternative for people who don&#8217;t need all the bells and whistles provided by powerful home automation frameworks such as Home Assistant or OpenHAB. Home Assistant open-source home automation software is great, but it requires a system with at least 2GB of RAM, and 4GB of RAM is often recommended for most users. There&#8217;s also a steep learning curve. This is what Tsvetan Usunov, Olimex CEO, realized last year when he tried Home Assistant, and he decided to start working on a low-cost, easy-to-use solution for IoT and Smart Home applications. That&#8217;s why the Olimex HoT project was created. Tsvetan gave a talk about the project entitled &#8220;Designing EUR 20 Open Source Hardware running Free/Libre Open Source Software [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/\">Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cnx-software.com/feed/",
+                "value": "<div><img alt=\"Olimex HoT\" class=\"attachment-medium size-medium wp-post-image\" height=\"330\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/02/Olimex-HoT-720x330.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Olimex HoT (Home of Things) is a lightweight Smart Home solution designed to run on low-end hardware (128MB RAM, 128MB flash) and interface with nodes running ESPHome. It can serve as an easier-to-use alternative for people who don&#8217;t need all the bells and whistles provided by powerful home automation frameworks such as Home Assistant or OpenHAB. Home Assistant open-source home automation software is great, but it requires a system with at least 2GB of RAM, and 4GB of RAM is often recommended for most users. There&#8217;s also a steep learning curve. This is what Tsvetan Usunov, Olimex CEO, realized last year when he tried Home Assistant, and he decided to start working on a low-cost, easy-to-use solution for IoT and Smart Home applications. That&#8217;s why the Olimex HoT project was created. Tsvetan gave a talk about the project entitled &#8220;Designing EUR 20 Open Source Hardware running Free/Libre Open Source Software [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/\">Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+            },
+            "wfw_commentrss": "https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/feed/",
+            "slash_comments": "0"
+        },
+        "matched_keyword": "iot",
+        "category": "sensors_devices",
+        "source": "CNX Software - Embedded Systems",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T09:16:12.186336"
+    },
+    {
+        "title": "Getting the VIC-20 To Speak Again",
+        "link": "https://hackaday.com/2026/02/05/getting-the-vic-20-to-speak-again/",
+        "description": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"405\" src=\"https://hackaday.com/wp-content/uploads/2026/01/579321_649607688388311_1794167227_n-e1769743741229.jpg?w=720\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"720\" /></div>The Commodore Amiga was famous for its characteristic Say voice, with its robotic enunciation being somewhat emblematic of the 16-bit era. The Commodore VIC-20 had no such capability out of the box, <a class=\"read-more\" href=\"https://hackaday.com/2026/02/05/getting-the-vic-20-to-speak-again/\">&#8230;read more</a>",
+        "date": "Fri, 06 Feb 2026 06:00:28 +0000",
+        "raw_entry": {
+            "title": "Getting the VIC-20 To Speak Again",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://hackaday.com/blog/feed/",
+                "value": "Getting the VIC-20 To Speak Again"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://hackaday.com/2026/02/05/getting-the-vic-20-to-speak-again/"
+                }
+            ],
+            "link": "https://hackaday.com/2026/02/05/getting-the-vic-20-to-speak-again/",
+            "comments": "https://hackaday.com/2026/02/05/getting-the-vic-20-to-speak-again/#comments",
+            "authors": [
+                {
+                    "name": "Lewin Day"
+                }
+            ],
+            "author": "Lewin Day",
+            "author_detail": {
+                "name": "Lewin Day"
+            },
+            "published": "Fri, 06 Feb 2026 06:00:28 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                6,
+                0,
+                28,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Misc Hacks",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "commodore vic-20",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "text to speech",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "VIC-20",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://hackaday.com/?p=914378",
+            "guidislink": false,
+            "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"405\" src=\"https://hackaday.com/wp-content/uploads/2026/01/579321_649607688388311_1794167227_n-e1769743741229.jpg?w=720\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"720\" /></div>The Commodore Amiga was famous for its characteristic Say voice, with its robotic enunciation being somewhat emblematic of the 16-bit era. The Commodore VIC-20 had no such capability out of the box, <a class=\"read-more\" href=\"https://hackaday.com/2026/02/05/getting-the-vic-20-to-speak-again/\">&#8230;read more</a>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://hackaday.com/blog/feed/",
+                "value": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"405\" src=\"https://hackaday.com/wp-content/uploads/2026/01/579321_649607688388311_1794167227_n-e1769743741229.jpg?w=720\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"720\" /></div>The Commodore Amiga was famous for its characteristic Say voice, with its robotic enunciation being somewhat emblematic of the 16-bit era. The Commodore VIC-20 had no such capability out of the box, <a class=\"read-more\" href=\"https://hackaday.com/2026/02/05/getting-the-vic-20-to-speak-again/\">&#8230;read more</a>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://hackaday.com/blog/feed/",
+                    "value": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"405\" src=\"https://hackaday.com/wp-content/uploads/2026/01/579321_649607688388311_1794167227_n-e1769743741229.jpg?w=720\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"720\" /></div><p>The Commodore Amiga was famous for its characteristic <em>Say </em>voice, with its robotic enunciation being somewhat emblematic of the 16-bit era. The Commodore VIC-20 had no such capability out of the box, <a href=\"https://mikeasphere.blogspot.com/2013/12/mike-speech-synthesizer-part-iv.html?m=1\" target=\"_blank\">but [Mike] was able to get one talking with a little bit of work.</a></p>\n<p>The project centers around the Adventureland cartridge, created by Scott Adams (but not the one you&#8217;re thinking of). It was a simple game that was able to deliver speech with the aid of the <a href=\"https://eden.mose.org.uk/Votrax/\" target=\"_blank\">Votrax Type and Talk</a> speech synthesizer box. Those aren&#8217;t exactly easy to come by, so [Mike] set about creating a modern equivalent. The concept was simple enough. An Arduino would be used to act as a go between the VIC-20&#8217;s slow serial port operating at 300 bps and the Speakjet and TTS256 chips which both preferred to talk at 9600 bps. The audio output of the Speakjet is then passed to an LM386 op-amp, set up as an amplifier to drive a small speaker. The lashed-together TTS system basically just reads out the text from the Adventureland game in an incredibly robotic voice. It&#8217;s relatively hard to understand and has poor cadence, but it does work &#8211; in much the same way as the original Type and Talk setup would have back in the day!</p>\n<p>Text to speech tools have come a <em>long</em> way since the 1980s, <a href=\"https://hackaday.com/2023/07/24/text-to-speech-model-can-do-music-background-noises-and-sound-effects/\">particularly when it comes to sounding more natural.</a> Video after the break.</p>\n<p><span id=\"more-914378\"></span></p>\n<p></p>\n<p>&nbsp;</p>\n<p>[Thanks to Stephen Walters for the tip!]</p>"
+                }
+            ],
+            "wfw_commentrss": "https://hackaday.com/2026/02/05/getting-the-vic-20-to-speak-again/feed/",
+            "slash_comments": "1",
+            "post-id": "914378",
+            "media_thumbnail": [
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2026/01/579321_649607688388311_1794167227_n-e1769743741229.jpg"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2026/01/579321_649607688388311_1794167227_n-e1769743741229.jpg",
+                    "medium": "image"
+                }
+            ]
+        },
+        "matched_keyword": "hack",
+        "category": "sensors_devices",
+        "source": "Hackaday",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T09:16:18.687653"
+    },
+    {
+        "title": "A Deep Dive Into Inductors",
+        "link": "https://hackaday.com/2026/02/05/a-deep-dive-into-inductors/",
+        "description": "<div><img alt=\"A graph of current versus time for circuits with and without inductors\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/inductance-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Prof MAD] runs us through The Hidden Power of Inductors — Why Coils Resist Change. The less often used of the passive components, the humble and mysterious inductor is the <a class=\"read-more\" href=\"https://hackaday.com/2026/02/05/a-deep-dive-into-inductors/\">&#8230;read more</a>",
+        "date": "Fri, 06 Feb 2026 03:00:44 +0000",
+        "raw_entry": {
+            "title": "A Deep Dive Into Inductors",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://hackaday.com/blog/feed/",
+                "value": "A Deep Dive Into Inductors"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://hackaday.com/2026/02/05/a-deep-dive-into-inductors/"
+                }
+            ],
+            "link": "https://hackaday.com/2026/02/05/a-deep-dive-into-inductors/",
+            "comments": "https://hackaday.com/2026/02/05/a-deep-dive-into-inductors/#respond",
+            "authors": [
+                {
+                    "name": "John Elliot V"
+                }
+            ],
+            "author": "John Elliot V",
+            "author_detail": {
+                "name": "John Elliot V"
+            },
+            "published": "Fri, 06 Feb 2026 03:00:44 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                3,
+                0,
+                44,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "hardware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Science",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "inductance",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "inductor",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://hackaday.com/?p=908789",
+            "guidislink": false,
+            "summary": "<div><img alt=\"A graph of current versus time for circuits with and without inductors\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/inductance-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Prof MAD] runs us through The Hidden Power of Inductors — Why Coils Resist Change. The less often used of the passive components, the humble and mysterious inductor is the <a class=\"read-more\" href=\"https://hackaday.com/2026/02/05/a-deep-dive-into-inductors/\">&#8230;read more</a>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://hackaday.com/blog/feed/",
+                "value": "<div><img alt=\"A graph of current versus time for circuits with and without inductors\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/inductance-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Prof MAD] runs us through The Hidden Power of Inductors — Why Coils Resist Change. The less often used of the passive components, the humble and mysterious inductor is the <a class=\"read-more\" href=\"https://hackaday.com/2026/02/05/a-deep-dive-into-inductors/\">&#8230;read more</a>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://hackaday.com/blog/feed/",
+                    "value": "<div><img alt=\"A graph of current versus time for circuits with and without inductors\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/inductance-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div><p>[Prof MAD] runs us through <a href=\"https://www.youtube.com/watch?v=S--0-hkSARU\" target=\"_blank\">The Hidden Power of Inductors — Why Coils Resist Change</a>.</p>\n<p>The less often used of the passive components, the humble and mysterious inductor is the subject of this video. The essence of inductance is a conductor&#8217;s tendency to resist changes in current. When the current is steady it is invisible, but when current changes an inductor pushes back. The good old waterwheel analogy is given to explain what an inductor&#8217;s effect is like.</p>\n<p>There are three things to notice about the effect of an inductor: increases in current are delayed, decreases in current are delayed, and when there is no change in current there is no noticeable effect. The inductor doesn&#8217;t resist current flow, but it does resist changes in current flow. This resistive effect only occurs when current is changing, and it is known as &#8220;inductive reactance&#8221;.</p>\n<p>After explaining an inductor&#8217;s behavior the video digs into how a typical inductor coil actually achieves this. The basic idea is that the inductor stores energy in a magnetic field, and it takes some time to charge up or discharge this field, accounting for the delay in current that is seen.</p>\n<p>There&#8217;s a warning about high voltages which can be seen when power to an inductor is suddenly cut off. Typically a circuit will include snubber circuits or flyback diodes to help manage such effects which can otherwise damage components or lead to electric shock.</p>\n<p>[Prof MAD] spends the rest of the video with some math that explains how voltage across an inductor is proportional to the rate of change of current over time (the first derivative of current against time). The inductance can then be defined as a constant of proportionality (L). This is the voltage that appears across a coil when current changes by 1 ampere per second, opposing the change. The unit is the volt-second-per-ampere (VsA<sup>-1</sup>) which is known as the Henry, named in honor of the American physicist <a href=\"https://en.wikipedia.org/wiki/Joseph_Henry\" target=\"_blank\">Joseph Henry</a>.</p>\n<p>Inductance can sometimes be put to good use in circuits, but just as often it is unwanted parasitic induction whose effects need to be mitigated, for more info see: <a href=\"https://hackaday.com/2018/09/28/inductance-in-pcb-layout-the-good-the-bad-and-the-fugly/\">Inductance In PCB Layout: The Good, The Bad, And The Fugly</a>.</p>\n<p><span id=\"more-908789\"></span></p>\n<p></p>"
+                }
+            ],
+            "wfw_commentrss": "https://hackaday.com/2026/02/05/a-deep-dive-into-inductors/feed/",
+            "slash_comments": "0",
+            "post-id": "908789",
+            "media_thumbnail": [
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2026/01/inductance-banner.jpg"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2026/01/inductance-banner.jpg",
+                    "medium": "image"
+                }
+            ]
+        },
+        "matched_keyword": "hack",
+        "category": "sensors_devices",
+        "source": "Hackaday",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T09:16:20.089868"
+    },
+    {
+        "title": "Gimmick Sunglasses Become Easy Custom Helmet Visor",
+        "link": "https://hackaday.com/2026/02/05/gimmick-sunglasses-become-easy-custom-helmet-visor/",
+        "description": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/satisfactory_helmet_punished_props_04-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[GizmoThrill] shows off a design for an absolutely gorgeous, high-fidelity replica of the main character&#8217;s helmet from the video game Satisfactory. But the best part is the technique used to <a class=\"read-more\" href=\"https://hackaday.com/2026/02/05/gimmick-sunglasses-become-easy-custom-helmet-visor/\">&#8230;read more</a>",
+        "date": "Fri, 06 Feb 2026 00:00:37 +0000",
+        "raw_entry": {
+            "title": "Gimmick Sunglasses Become Easy Custom Helmet Visor",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://hackaday.com/blog/feed/",
+                "value": "Gimmick Sunglasses Become Easy Custom Helmet Visor"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://hackaday.com/2026/02/05/gimmick-sunglasses-become-easy-custom-helmet-visor/"
+                }
+            ],
+            "link": "https://hackaday.com/2026/02/05/gimmick-sunglasses-become-easy-custom-helmet-visor/",
+            "comments": "https://hackaday.com/2026/02/05/gimmick-sunglasses-become-easy-custom-helmet-visor/#comments",
+            "authors": [
+                {
+                    "name": "Donald Papp"
+                }
+            ],
+            "author": "Donald Papp",
+            "author_detail": {
+                "name": "Donald Papp"
+            },
+            "published": "Fri, 06 Feb 2026 00:00:37 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                37,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "how-to",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Wearable Hacks",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "3d printed",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cosplay",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "custom helmet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "diy",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "sunglasses",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://hackaday.com/?p=914439",
+            "guidislink": false,
+            "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/satisfactory_helmet_punished_props_04-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[GizmoThrill] shows off a design for an absolutely gorgeous, high-fidelity replica of the main character&#8217;s helmet from the video game Satisfactory. But the best part is the technique used to <a class=\"read-more\" href=\"https://hackaday.com/2026/02/05/gimmick-sunglasses-become-easy-custom-helmet-visor/\">&#8230;read more</a>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://hackaday.com/blog/feed/",
+                "value": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/satisfactory_helmet_punished_props_04-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[GizmoThrill] shows off a design for an absolutely gorgeous, high-fidelity replica of the main character&#8217;s helmet from the video game Satisfactory. But the best part is the technique used to <a class=\"read-more\" href=\"https://hackaday.com/2026/02/05/gimmick-sunglasses-become-easy-custom-helmet-visor/\">&#8230;read more</a>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://hackaday.com/blog/feed/",
+                    "value": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/satisfactory_helmet_punished_props_04-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div><p>[GizmoThrill] shows off a design for an absolutely gorgeous, high-fidelity replica of the main character&#8217;s helmet from the video game <em>Satisfactory</em>. But the best part is the technique used to create the visor: <a href=\"https://www.printables.com/model/707053-satisfactory-helmet-cosplay-replica-2-sizes\" target=\"_blank\">just design around a cheap set of full-face &#8220;sunglasses&#8221;</a> to completely avoid having to mold your own custom faceplate.</p>\n<p>One of the most challenging parts of any custom helmet build is how to make a high-quality visor or faceplate. Most folks heat up a sheet of plastic and form it carefully around a mold, but [GizmoThrill] approached the problem from the other direction. After spotting a full-face sun visor online, they decided to design the helmet around the readily-accessible visor instead of the other way around.</p>\n<p>The first thing to do with the visor is cover it with painter&#8217;s tape and 3D scan it. Once that&#8217;s done, the 3D model of the visor allows the rest of the helmet to be designed around it. In the case of the <em>Satisfactory</em> helmet, the design of the visor is a perfect match for the game&#8217;s helmet, but one could easily be designing their own custom headgear with this technique.</p>\n<figure class=\"wp-caption alignright\" id=\"attachment_914450\" style=\"width: 400px;\"><a href=\"https://hackaday.com/wp-content/uploads/2026/01/satisfactory_helmet_punished_props_05-thumb.png\" target=\"_blank\"><img alt=\"\" class=\"wp-image-914450 size-medium\" height=\"400\" src=\"https://hackaday.com/wp-content/uploads/2026/01/satisfactory_helmet_punished_props_05-thumb.png?w=400\" width=\"400\" /></a><figcaption class=\"wp-caption-text\" id=\"caption-attachment-914450\">The hexagon grid pattern? It&#8217;s actually a clear vinyl sticker and doesn&#8217;t obstruct vision at all. Another clever touch.</figcaption></figure>\n<p>With the helmet 3D printed, [GizmoThrill] heads to the bandsaw to cut away any excess from the visor, and secure it in place. That&#8217;s all there is to it! Sure, you don&#8217;t have full control over the visor&#8217;s actual shape, but it sure beats the <a href=\"https://hackaday.com/2024/09/28/see-the-hands-on-details-behind-stunning-helmet-build/\">tons and tons of sanding</a> involved otherwise.</p>\n<p>There&#8217;s a video tour of the whole process that shows off a number of other design features we really like. For example, metal mesh in the cheek areas and in front of the mouth means a fan can circulate air easily, so the one doesn&#8217;t fog up the inside of the visor with one&#8217;s very first breath. The mesh itself is concealed with some <a href=\"https://en.wikipedia.org/wiki/Greeble\" target=\"_blank\">greebles</a> mounted on top. You can see all those details up close in the video, embedded just below.</p>\n<p>The helmet design is thanks to [Punished Props] and we&#8217;ve <a href=\"https://hackaday.com/2019/02/09/a-trove-of-cosplay-prop-making-tutorials-and-blueprints/\">seen their work before</a>. This trick for turning affordable and somewhat gimmicky sunglasses into something truly time-saving is definitely worth keeping in mind.</p>\n<p><span id=\"more-914439\"></span></p>\n<p></p>"
+                }
+            ],
+            "wfw_commentrss": "https://hackaday.com/2026/02/05/gimmick-sunglasses-become-easy-custom-helmet-visor/feed/",
+            "slash_comments": "3",
+            "post-id": "914439",
+            "media_thumbnail": [
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2026/01/satisfactory_helmet_punished_props_04-banner.png"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2026/01/satisfactory_helmet_punished_props_04-banner.png",
+                    "medium": "image"
+                },
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2026/01/satisfactory_helmet_punished_props_05-thumb.png?w=400",
+                    "medium": "image"
+                }
+            ]
+        },
+        "matched_keyword": "hack",
+        "category": "sensors_devices",
+        "source": "Hackaday",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T09:16:22.356612"
+    },
+    {
+        "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
+        "link": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
+        "description": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF.\nClaude Opus 4.6, which was launched on Thursday, comes with improved coding skills, including code review and debugging capabilities, along",
+        "date": "Fri, 06 Feb 2026 11:19:00 +0530",
+        "raw_entry": {
+            "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://feeds.feedburner.com/TheHackersNews",
+                "value": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries"
+            },
+            "summary": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF.\nClaude Opus 4.6, which was launched on Thursday, comes with improved coding skills, including code review and debugging capabilities, along",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://feeds.feedburner.com/TheHackersNews",
+                "value": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF.\nClaude Opus 4.6, which was launched on Thursday, comes with improved coding skills, including code review and debugging capabilities, along"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3INhSQ0eqV1r5O9Q_JGSGDCw6r657lTF_JXgvwnA7iHLRer8FgbUzV37ALPlKD0MNHNUltUI8BjJNLOb2iL8FRZ3xlBO74k2HCxEsTcY8z0wN6xfNacnOK7eRHDmrw0mEbBvYINLHTQs7AEDhffz2DRXd2uOJgPh7tJg-xVZFx070Lo36hdfu7HpEEeRO/s1600/claude-opus-4.6.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
+            "id": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 11:19:00 +0530",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                5,
+                49,
+                0,
+                4,
+                37,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        "source": "The Hacker News",
+        "category": "network_transit",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T09:16:24.190070"
+    },
+    {
+        "title": "Critical SmarterMail Vulnerability Exploited in Ransomware Attacks",
+        "link": "https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/",
+        "description": "<p>The security defect allows unauthenticated attackers to execute arbitrary code remotely via malicious HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/\">Critical SmarterMail Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "date": "Fri, 06 Feb 2026 07:50:23 +0000",
+        "raw_entry": {
+            "title": "Critical SmarterMail Vulnerability Exploited in Ransomware Attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "Critical SmarterMail Vulnerability Exploited in Ransomware Attacks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/"
+                }
+            ],
+            "link": "https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/",
+            "authors": [
+                {
+                    "name": "Ionut Arghire"
+                }
+            ],
+            "author": "Ionut Arghire",
+            "author_detail": {
+                "name": "Ionut Arghire"
+            },
+            "published": "Fri, 06 Feb 2026 07:50:23 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                7,
+                50,
+                23,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CISA KEV",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "exploited",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "SmarterMail",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "SmarterTools",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "vulnerability",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.securityweek.com/?p=45289",
+            "guidislink": false,
+            "summary": "<p>The security defect allows unauthenticated attackers to execute arbitrary code remotely via malicious HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/\">Critical SmarterMail Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "<p>The security defect allows unauthenticated attackers to execute arbitrary code remotely via malicious HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/\">Critical SmarterMail Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+            }
+        },
+        "source": "SecurityWeek",
+        "category": "network_transit",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T09:16:26.232474"
+    },
+    {
+        "title": "Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog",
+        "link": "https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/",
+        "description": "<p>CISA updated 59 KEV entries in 2025 to specify that the vulnerabilities have been exploited in ransomware attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/\">Concerns Raised Over CISA&#8217;s Silent Ransomware Updates in KEV Catalog</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "date": "Fri, 06 Feb 2026 05:28:39 +0000",
+        "raw_entry": {
+            "title": "Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/"
+                }
+            ],
+            "link": "https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/",
+            "authors": [
+                {
+                    "name": "Eduard Kovacs"
+                }
+            ],
+            "author": "Eduard Kovacs",
+            "author_detail": {
+                "name": "Eduard Kovacs"
+            },
+            "published": "Fri, 06 Feb 2026 05:28:39 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                5,
+                28,
+                39,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Government",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CISA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CISA KEV",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "vulnerability",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.securityweek.com/?p=45287",
+            "guidislink": false,
+            "summary": "<p>CISA updated 59 KEV entries in 2025 to specify that the vulnerabilities have been exploited in ransomware attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/\">Concerns Raised Over CISA&#8217;s Silent Ransomware Updates in KEV Catalog</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "<p>CISA updated 59 KEV entries in 2025 to specify that the vulnerabilities have been exploited in ransomware attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/\">Concerns Raised Over CISA&#8217;s Silent Ransomware Updates in KEV Catalog</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+            }
+        },
+        "source": "SecurityWeek",
+        "category": "network_transit",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T09:16:26.390070"
+    },
+    {
+        "title": "Zscaler Acquires Browser Security Firm SquareX",
+        "link": "https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/",
+        "description": "<p>Zscaler says the acquisition will allow customers to embed lightweight extensions into any browser, providing increased security and eliminating the need for third-party browsers. </p>\n<p>The post <a href=\"https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/\">Zscaler Acquires Browser Security Firm SquareX </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "date": "Fri, 06 Feb 2026 02:48:22 +0000",
+        "raw_entry": {
+            "title": "Zscaler Acquires Browser Security Firm SquareX",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "Zscaler Acquires Browser Security Firm SquareX"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/"
+                }
+            ],
+            "link": "https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/",
+            "authors": [
+                {
+                    "name": "Mike Lennon"
+                }
+            ],
+            "author": "Mike Lennon",
+            "author_detail": {
+                "name": "Mike Lennon"
+            },
+            "published": "Fri, 06 Feb 2026 02:48:22 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                2,
+                48,
+                22,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Funding/M&A",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Acquisition",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Featured",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Zscaler",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.securityweek.com/?p=45285",
+            "guidislink": false,
+            "summary": "<p>Zscaler says the acquisition will allow customers to embed lightweight extensions into any browser, providing increased security and eliminating the need for third-party browsers. </p>\n<p>The post <a href=\"https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/\">Zscaler Acquires Browser Security Firm SquareX </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "<p>Zscaler says the acquisition will allow customers to embed lightweight extensions into any browser, providing increased security and eliminating the need for third-party browsers. </p>\n<p>The post <a href=\"https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/\">Zscaler Acquires Browser Security Firm SquareX </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+            }
+        },
+        "source": "SecurityWeek",
+        "category": "network_transit",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T09:16:26.564776"
+    },
+    {
+        "title": "Full-Blown Cross-Assembler…in a Bash Script",
+        "link": "https://hackaday.com/2026/02/06/full-blown-cross-assembler-in-a-bash-script/",
+        "description": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/08/turingtapes.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Have you ever dreamed of making a bash script that assembles Intel 8080 machine code? [Chris Smith] did exactly that when he created xa.sh, a cross-assembler written entirely in Bourne <a class=\"read-more\" href=\"https://hackaday.com/2026/02/06/full-blown-cross-assembler-in-a-bash-script/\">&#8230;read more</a>",
+        "date": "Fri, 06 Feb 2026 09:00:05 +0000",
+        "raw_entry": {
+            "title": "Full-Blown Cross-Assembler…in a Bash Script",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://hackaday.com/blog/feed/",
+                "value": "Full-Blown Cross-Assembler…in a Bash Script"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://hackaday.com/2026/02/06/full-blown-cross-assembler-in-a-bash-script/"
+                }
+            ],
+            "link": "https://hackaday.com/2026/02/06/full-blown-cross-assembler-in-a-bash-script/",
+            "comments": "https://hackaday.com/2026/02/06/full-blown-cross-assembler-in-a-bash-script/#respond",
+            "authors": [
+                {
+                    "name": "Donald Papp"
+                }
+            ],
+            "author": "Donald Papp",
+            "author_detail": {
+                "name": "Donald Papp"
+            },
+            "published": "Fri, 06 Feb 2026 09:00:05 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                9,
+                0,
+                5,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Linux Hacks",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Software Hacks",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "assembly language",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Bash script",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "bourne shell",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://hackaday.com/?p=915289",
+            "guidislink": false,
+            "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/08/turingtapes.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Have you ever dreamed of making a bash script that assembles Intel 8080 machine code? [Chris Smith] did exactly that when he created xa.sh, a cross-assembler written entirely in Bourne <a class=\"read-more\" href=\"https://hackaday.com/2026/02/06/full-blown-cross-assembler-in-a-bash-script/\">&#8230;read more</a>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://hackaday.com/blog/feed/",
+                "value": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/08/turingtapes.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Have you ever dreamed of making a bash script that assembles Intel 8080 machine code? [Chris Smith] did exactly that when he created xa.sh, a cross-assembler written entirely in Bourne <a class=\"read-more\" href=\"https://hackaday.com/2026/02/06/full-blown-cross-assembler-in-a-bash-script/\">&#8230;read more</a>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://hackaday.com/blog/feed/",
+                    "value": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/08/turingtapes.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div><p>Have you ever dreamed of making a bash script that assembles Intel 8080 machine code? [Chris Smith] did exactly that when he created <code>xa.sh</code>, a <a href=\"https://github.com/kemenril/xa.sh\" target=\"_blank\">cross-assembler written entirely in Bourne shell script</a>.</p>\n<figure class=\"wp-caption alignright\" id=\"attachment_915295\" style=\"width: 300px;\"><a href=\"https://hackaday.com/wp-content/uploads/2026/02/bash-8080-assembler-thumb.png\" target=\"_blank\"><img alt=\"\" class=\"wp-image-915295\" height=\"300\" src=\"https://hackaday.com/wp-content/uploads/2026/02/bash-8080-assembler-thumb.png?w=400\" width=\"300\" /></a><figcaption class=\"wp-caption-text\" id=\"caption-attachment-915295\">Assembly language (like the above) goes in, a binary comes out.</figcaption></figure>\n<p>The script exists in part as a celebration of the power inherent in a standard Unix shell with quite ordinary POSIX-compliant command line tools like <code>awk</code>, <code>sed</code>, and <code>printf</code>. But [Chris] admits that mostly he found the whole project amusing.</p>\n<p>It&#8217;s designed in a way that adding support for 6502 and 6809 machine code would be easy, assuming 8080 support isn&#8217;t already funny enough on its own.</p>\n<p>It&#8217;s not particularly efficient and it&#8217;s got some quirks, most of which involve syntax handling (hexadecimal notation should stick to <em>0</em> or <em>0x</em> prefixes instead of <em>$</em> to avoid shell misinterpretations) but it works.</p>\n<p>Want to give it a try? It&#8217;s a shell script, so pull a copy and and just make it executable. As long as the usual command-line tools exist (meaning your system is from sometime in the last thirty-odd years), it should run just fine as-is.</p>\n<p>An ambitious bash script like this one recalls how our own Al Williams shared ways to <a href=\"https://hackaday.com/2017/07/21/linux-fu-better-bash-scripting/\">make better bash scripts</a> by treating it just a bit more like the full-blown programming language it qualifies as.</p>"
+                }
+            ],
+            "wfw_commentrss": "https://hackaday.com/2026/02/06/full-blown-cross-assembler-in-a-bash-script/feed/",
+            "slash_comments": "0",
+            "post-id": "915289",
+            "media_thumbnail": [
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2016/08/turingtapes.jpg"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2016/08/turingtapes.jpg",
+                    "medium": "image"
+                },
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2026/02/bash-8080-assembler-thumb.png?w=400",
+                    "medium": "image"
+                }
+            ]
+        },
+        "matched_keyword": "hack",
+        "category": "sensors_devices",
+        "source": "Hackaday",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T10:18:07.553827"
+    },
+    {
+        "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
+        "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
+        "description": "Cybersecurity researchers have discovered a new supply chain attack in which legitimate packages on npm and the Python Package Index (PyPI) repository have been compromised to push malicious versions to facilitate wallet credential theft and remote code execution.\nThe compromised versions of the two packages are listed below -\n\n@dydxprotocol/v4-client-js (npm) - 3.4.1, 1.22.1, 1.15.2, 1.0.31&",
+        "date": "Fri, 06 Feb 2026 14:10:00 +0530",
+        "raw_entry": {
+            "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://feeds.feedburner.com/TheHackersNews",
+                "value": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware"
+            },
+            "summary": "Cybersecurity researchers have discovered a new supply chain attack in which legitimate packages on npm and the Python Package Index (PyPI) repository have been compromised to push malicious versions to facilitate wallet credential theft and remote code execution.\nThe compromised versions of the two packages are listed below -\n\n@dydxprotocol/v4-client-js (npm) - 3.4.1, 1.22.1, 1.15.2, 1.0.31&",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://feeds.feedburner.com/TheHackersNews",
+                "value": "Cybersecurity researchers have discovered a new supply chain attack in which legitimate packages on npm and the Python Package Index (PyPI) repository have been compromised to push malicious versions to facilitate wallet credential theft and remote code execution.\nThe compromised versions of the two packages are listed below -\n\n@dydxprotocol/v4-client-js (npm) - 3.4.1, 1.22.1, 1.15.2, 1.0.31&"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyIStnp-bU9hiGHInOzCOAghM-ycI6Ji3sPnUabHcJU_9vmQMCof5MKezvR6uly1jV9qfrPwynL5PZjrifXYWIBJB31wQDTv70h31WQuGzptuPUE_iUkS99qMlcN1QHvbDaqtlAOu8Gy65Ge45FaApAUNqP2DtXhOBAPmtAjyijUbX3kWSb8NgygWtIsQA/s1600/npm-pypi.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
+            "id": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 14:10:00 +0530",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                8,
+                40,
+                0,
+                4,
+                37,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        "matched_keyword": "protocol",
+        "category": "network_transit",
+        "source": "The Hacker News",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T10:18:18.978144"
+    },
+    {
+        "title": "‘DKnife’ Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks",
+        "link": "https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/",
+        "description": "<p>Used since at least 2019, DKnife has been targeting the desktop, mobile, and IoT devices of Chinese users.</p>\n<p>The post <a href=\"https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/\">&#8216;DKnife&#8217; Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "date": "Fri, 06 Feb 2026 08:50:46 +0000",
+        "raw_entry": {
+            "title": "‘DKnife’ Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "‘DKnife’ Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/"
+                }
+            ],
+            "link": "https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/",
+            "authors": [
+                {
+                    "name": "Ionut Arghire"
+                }
+            ],
+            "author": "Ionut Arghire",
+            "author_detail": {
+                "name": "Ionut Arghire"
+            },
+            "published": "Fri, 06 Feb 2026 08:50:46 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                8,
+                50,
+                46,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Malware & Threats",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "AitM",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "backdoor",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "China",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "DKnife",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "framework",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.securityweek.com/?p=45292",
+            "guidislink": false,
+            "summary": "<p>Used since at least 2019, DKnife has been targeting the desktop, mobile, and IoT devices of Chinese users.</p>\n<p>The post <a href=\"https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/\">&#8216;DKnife&#8217; Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "<p>Used since at least 2019, DKnife has been targeting the desktop, mobile, and IoT devices of Chinese users.</p>\n<p>The post <a href=\"https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/\">&#8216;DKnife&#8217; Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+            }
+        },
+        "source": "SecurityWeek",
+        "category": "network_transit",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T10:18:23.676616"
+    },
+    {
+        "title": "5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel",
+        "link": "https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/",
+        "description": "<p>The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise.</p>\n<p>The post <a href=\"https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/\">5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "date": "Fri, 06 Feb 2026 08:19:03 +0000",
+        "raw_entry": {
+            "title": "5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/"
+                }
+            ],
+            "link": "https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/",
+            "authors": [
+                {
+                    "name": "Eduard Kovacs"
+                }
+            ],
+            "author": "Eduard Kovacs",
+            "author_detail": {
+                "name": "Eduard Kovacs"
+            },
+            "published": "Fri, 06 Feb 2026 08:19:03 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                8,
+                19,
+                3,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Government",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ICS/OT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "bill",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "DOE",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "energy",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Government Policy",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Laws",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.securityweek.com/?p=45291",
+            "guidislink": false,
+            "summary": "<p>The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise.</p>\n<p>The post <a href=\"https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/\">5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "<p>The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise.</p>\n<p>The post <a href=\"https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/\">5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+            }
+        },
+        "source": "SecurityWeek",
+        "category": "network_transit",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T10:18:24.333106"
+    },
+    {
+        "title": "Compact, fanless DIN-Rail Intel Core Ultra 5 235U/7 265U industrial PC targets AMR, robotics, and computer vision",
+        "link": "https://www.cnx-software.com/2026/02/06/compact-fanless-din-rail-intel-core-ultra-5-235u-7-265u-industrial-pc-targets-amr-robotics-and-computer-vision/",
+        "description": "<div><img alt=\"ASUS IoT PE1000U\" class=\"attachment-medium size-medium wp-post-image\" height=\"449\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/02/ASUS-IoT-PE1000U-720x449.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ASUS IoT PE1000U is a compact (160 x 110 x 63 mm) fanless DIN-rail industrial Edge AI PC powered by an Intel Core Ultra 5 235U/ 7 265U (Series 2) processor and designed for AMR (Autonomous Mobile Robots), robotics, and computer vision applications. Housed in a fanless, MIL-STD-810H-rated, rugged IP40-rated chassis, the PE1000U supports SO-DIMM DDR5 memory, SATA and NVMe storage, features two 2.5GbE RJ45 ports, four USB ports, four COM ports, onboard CAN Bus and DIO interfaces, as well as DisplayPort and HDMI outputs for dual 4K display setups for HMI or machine-vision monitoring. As an industrial computer, it accepts a wide 9-36V DC power input, includes built-in ignition control, and can operate in environments with temperatures ranging between -25°C and 70°C. ASUS IoT PE1000U specifications: Arrow Lake SoC (one or the other) Intel Core Ultra 5 235U CPU &#8211; 12-core (2P+8E+2LPE) / 14 threads processor @ 2.0 GHz [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/02/06/compact-fanless-din-rail-intel-core-ultra-5-235u-7-265u-industrial-pc-targets-amr-robotics-and-computer-vision/\">Compact, fanless DIN-Rail Intel Core Ultra 5 235U/7 265U industrial PC targets AMR, robotics, and computer vision</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>",
+        "date": "Fri, 06 Feb 2026 10:43:09 +0000",
+        "raw_entry": {
+            "title": "Compact, fanless DIN-Rail Intel Core Ultra 5 235U/7 265U industrial PC targets AMR, robotics, and computer vision",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cnx-software.com/feed/",
+                "value": "Compact, fanless DIN-Rail Intel Core Ultra 5 235U/7 265U industrial PC targets AMR, robotics, and computer vision"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cnx-software.com/2026/02/06/compact-fanless-din-rail-intel-core-ultra-5-235u-7-265u-industrial-pc-targets-amr-robotics-and-computer-vision/"
+                }
+            ],
+            "link": "https://www.cnx-software.com/2026/02/06/compact-fanless-din-rail-intel-core-ultra-5-235u-7-265u-industrial-pc-targets-amr-robotics-and-computer-vision/",
+            "comments": "https://www.cnx-software.com/2026/02/06/compact-fanless-din-rail-intel-core-ultra-5-235u-7-265u-industrial-pc-targets-amr-robotics-and-computer-vision/#respond",
+            "authors": [
+                {
+                    "name": "Jean-Luc Aufranc (CNXSoft)"
+                }
+            ],
+            "author": "Jean-Luc Aufranc (CNXSoft)",
+            "author_detail": {
+                "name": "Jean-Luc Aufranc (CNXSoft)"
+            },
+            "published": "Fri, 06 Feb 2026 10:43:09 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                10,
+                43,
+                9,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Hardware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Intel Core",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Linux",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Windows 11",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "2.5GbE",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "4g lte",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "5g",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "arrow lake",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "asus",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "can",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "computer vision",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "fanless",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "industrial",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IoT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "mini pc",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "robotics",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "wifi 6",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "windows 11",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.cnx-software.com/?p=164998",
+            "guidislink": false,
+            "summary": "<div><img alt=\"ASUS IoT PE1000U\" class=\"attachment-medium size-medium wp-post-image\" height=\"449\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/02/ASUS-IoT-PE1000U-720x449.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ASUS IoT PE1000U is a compact (160 x 110 x 63 mm) fanless DIN-rail industrial Edge AI PC powered by an Intel Core Ultra 5 235U/ 7 265U (Series 2) processor and designed for AMR (Autonomous Mobile Robots), robotics, and computer vision applications. Housed in a fanless, MIL-STD-810H-rated, rugged IP40-rated chassis, the PE1000U supports SO-DIMM DDR5 memory, SATA and NVMe storage, features two 2.5GbE RJ45 ports, four USB ports, four COM ports, onboard CAN Bus and DIO interfaces, as well as DisplayPort and HDMI outputs for dual 4K display setups for HMI or machine-vision monitoring. As an industrial computer, it accepts a wide 9-36V DC power input, includes built-in ignition control, and can operate in environments with temperatures ranging between -25°C and 70°C. ASUS IoT PE1000U specifications: Arrow Lake SoC (one or the other) Intel Core Ultra 5 235U CPU &#8211; 12-core (2P+8E+2LPE) / 14 threads processor @ 2.0 GHz [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/02/06/compact-fanless-din-rail-intel-core-ultra-5-235u-7-265u-industrial-pc-targets-amr-robotics-and-computer-vision/\">Compact, fanless DIN-Rail Intel Core Ultra 5 235U/7 265U industrial PC targets AMR, robotics, and computer vision</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cnx-software.com/feed/",
+                "value": "<div><img alt=\"ASUS IoT PE1000U\" class=\"attachment-medium size-medium wp-post-image\" height=\"449\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/02/ASUS-IoT-PE1000U-720x449.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ASUS IoT PE1000U is a compact (160 x 110 x 63 mm) fanless DIN-rail industrial Edge AI PC powered by an Intel Core Ultra 5 235U/ 7 265U (Series 2) processor and designed for AMR (Autonomous Mobile Robots), robotics, and computer vision applications. Housed in a fanless, MIL-STD-810H-rated, rugged IP40-rated chassis, the PE1000U supports SO-DIMM DDR5 memory, SATA and NVMe storage, features two 2.5GbE RJ45 ports, four USB ports, four COM ports, onboard CAN Bus and DIO interfaces, as well as DisplayPort and HDMI outputs for dual 4K display setups for HMI or machine-vision monitoring. As an industrial computer, it accepts a wide 9-36V DC power input, includes built-in ignition control, and can operate in environments with temperatures ranging between -25°C and 70°C. ASUS IoT PE1000U specifications: Arrow Lake SoC (one or the other) Intel Core Ultra 5 235U CPU &#8211; 12-core (2P+8E+2LPE) / 14 threads processor @ 2.0 GHz [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/02/06/compact-fanless-din-rail-intel-core-ultra-5-235u-7-265u-industrial-pc-targets-amr-robotics-and-computer-vision/\">Compact, fanless DIN-Rail Intel Core Ultra 5 235U/7 265U industrial PC targets AMR, robotics, and computer vision</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+            },
+            "wfw_commentrss": "https://www.cnx-software.com/2026/02/06/compact-fanless-din-rail-intel-core-ultra-5-235u-7-265u-industrial-pc-targets-amr-robotics-and-computer-vision/feed/",
+            "slash_comments": "0"
+        },
+        "matched_keyword": "iot",
+        "category": "sensors_devices",
+        "source": "CNX Software - Embedded Systems",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T15:25:10.946131"
+    },
+    {
+        "title": "BreezyBox: A BusyBox-Like Shell and Virtual Terminal for ESP32",
+        "link": "https://hackaday.com/2026/02/06/breezybox-a-busybox-like-shell-and-virtual-terminal-for-esp32/",
+        "description": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f776c4473615167574361492f6d617872657364656661756c742e6a7067.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Much like how BusyBox crams many standard Unix commands and a shell into a single executable, so too does BreezyBox provide a similar experience for the ESP32 platform. A demo <a class=\"read-more\" href=\"https://hackaday.com/2026/02/06/breezybox-a-busybox-like-shell-and-virtual-terminal-for-esp32/\">&#8230;read more</a>",
+        "date": "Fri, 06 Feb 2026 12:00:01 +0000",
+        "raw_entry": {
+            "title": "BreezyBox: A BusyBox-Like Shell and Virtual Terminal for ESP32",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://hackaday.com/blog/feed/",
+                "value": "BreezyBox: A BusyBox-Like Shell and Virtual Terminal for ESP32"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://hackaday.com/2026/02/06/breezybox-a-busybox-like-shell-and-virtual-terminal-for-esp32/"
+                }
+            ],
+            "link": "https://hackaday.com/2026/02/06/breezybox-a-busybox-like-shell-and-virtual-terminal-for-esp32/",
+            "comments": "https://hackaday.com/2026/02/06/breezybox-a-busybox-like-shell-and-virtual-terminal-for-esp32/#comments",
+            "authors": [
+                {
+                    "name": "Maya Posch"
+                }
+            ],
+            "author": "Maya Posch",
+            "author_detail": {
+                "name": "Maya Posch"
+            },
+            "published": "Fri, 06 Feb 2026 12:00:01 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                12,
+                0,
+                1,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Microcontrollers",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Software Development",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "busybox",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ESP32",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://hackaday.com/?p=914328",
+            "guidislink": false,
+            "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f776c4473615167574361492f6d617872657364656661756c742e6a7067.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Much like how BusyBox crams many standard Unix commands and a shell into a single executable, so too does BreezyBox provide a similar experience for the ESP32 platform. A demo <a class=\"read-more\" href=\"https://hackaday.com/2026/02/06/breezybox-a-busybox-like-shell-and-virtual-terminal-for-esp32/\">&#8230;read more</a>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://hackaday.com/blog/feed/",
+                "value": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f776c4473615167574361492f6d617872657364656661756c742e6a7067.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Much like how BusyBox crams many standard Unix commands and a shell into a single executable, so too does BreezyBox provide a similar experience for the ESP32 platform. A demo <a class=\"read-more\" href=\"https://hackaday.com/2026/02/06/breezybox-a-busybox-like-shell-and-virtual-terminal-for-esp32/\">&#8230;read more</a>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://hackaday.com/blog/feed/",
+                    "value": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/01/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f776c4473615167574361492f6d617872657364656661756c742e6a7067.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div><p>Much like how BusyBox crams many standard Unix commands and a shell into a single executable, so too does <a href=\"https://github.com/valdanylchuk/breezybox\" target=\"_blank\">BreezyBox</a> provide a similar experience for the ESP32 platform. A <a href=\"https://github.com/valdanylchuk/breezydemo/\" target=\"_blank\">demo</a> implementation is also provided, which uses the ESP32-S3 platform as part of the <a href=\"https://www.waveshare.com/esp32-s3-lcd-7b.htm\" target=\"_blank\">Waveshare 7&#8243; display</a> development board.</p>\n<p>Although it invokes the BusyBox name, it&#8217;s not meant to be as stand-alone as it uses the standard features provided by the FreeRTOS-based ESP-IDF SDK. In addition to the features provided by ESP-IDF it adds things like a basic virtual terminal, current working directory (CWD) tracking and a gaggle of Unix-style commands, as well as an app installer.</p>\n<p>The existing ELF binary loader for the ESP32 is used to run executables either from a local path or a remote one, a local HTTP server is provided and you even get ANSI color support. Some <a href=\"https://github.com/valdanylchuk/breezyapps\" target=\"_blank\">BreezyBox apps can be found here</a>, with them often running on a POSIX-compatible system as well. This includes the <a href=\"https://hackaday.com/2025/12/30/xcc700-self-hosted-c-compiler-for-the-esp32-xtensa/\"><code>xcc700</code></a> self-hosted C compiler.</p>\n<p>You can get the MIT-licensed code either from the above GitHub project link or install it from the Espressif Component Registry if that&#8217;s more your thing.</p>\n<p><span id=\"more-914328\"></span></p>\n<p></p>"
+                }
+            ],
+            "wfw_commentrss": "https://hackaday.com/2026/02/06/breezybox-a-busybox-like-shell-and-virtual-terminal-for-esp32/feed/",
+            "slash_comments": "1",
+            "post-id": "914328",
+            "media_thumbnail": [
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2026/01/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f776c4473615167574361492f6d617872657364656661756c742e6a7067.jpg"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://hackaday.com/wp-content/uploads/2026/01/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f776c4473615167574361492f6d617872657364656661756c742e6a7067.jpg",
+                    "medium": "image"
+                }
+            ]
+        },
+        "matched_keyword": "hack",
+        "category": "sensors_devices",
+        "source": "Hackaday",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T15:28:06.286886"
+    },
+    {
+        "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+        "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive security updates from original equipment manufacturers (OEMs) over the next 12 to 18 months.\nThe agency said the move is to drive down technical debt and minimize",
+        "date": "Fri, 06 Feb 2026 19:13:00 +0530",
+        "raw_entry": {
+            "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://feeds.feedburner.com/TheHackersNews",
+                "value": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk"
+            },
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive security updates from original equipment manufacturers (OEMs) over the next 12 to 18 months.\nThe agency said the move is to drive down technical debt and minimize",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://feeds.feedburner.com/TheHackersNews",
+                "value": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive security updates from original equipment manufacturers (OEMs) over the next 12 to 18 months.\nThe agency said the move is to drive down technical debt and minimize"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge1uFwm_WzT-KegdpNHP4BZ8lVr18AxaDHJOg7q82ToP6qmFMnQyBFVEFSnIO4vOPNF0vKBCZyllAPnBsWALveRbuPV9J-vZClRVCbp8_5dmKpPsrYghHm_ONMIxi-gatCoDpkHqCExbcZiMyGPzXV0TzqBJlXcraIeCWwEeyEk4pBChWP8iHuWAOuUzOV/s1600/cisa.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+            "id": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 19:13:00 +0530",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                13,
+                43,
+                0,
+                4,
+                37,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        "matched_keyword": "network",
+        "category": "network_transit",
+        "source": "The Hacker News",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T15:28:28.918510"
+    },
+    {
+        "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
+        "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
+        "description": "A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto Networks Unit 42.\nIn addition, the hacking crew has been observed conducting active reconnaissance against government infrastructure associated with 155",
+        "date": "Fri, 06 Feb 2026 17:37:00 +0530",
+        "raw_entry": {
+            "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://feeds.feedburner.com/TheHackersNews",
+                "value": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities"
+            },
+            "summary": "A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto Networks Unit 42.\nIn addition, the hacking crew has been observed conducting active reconnaissance against government infrastructure associated with 155",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://feeds.feedburner.com/TheHackersNews",
+                "value": "A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto Networks Unit 42.\nIn addition, the hacking crew has been observed conducting active reconnaissance against government infrastructure associated with 155"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkJXKdHXB2KDlczzJtz-jzXDWo2g659AlM7wEMe5ZqLyV2xBZlvoO3uEyL25wwkvVZ1VLoKF6nZ_KJY5M8uHOb0c5Jon9VcLakImOaWVnCt_3LaR22nrrpZK9SmQZifDzmSB5NpaUikQeAhPP5nvgyK53vaJVSAkBRdpmpJA81kghRzC49Hwg2F0NzUfO6/s1600/cyberattack.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
+            "id": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 17:37:00 +0530",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                12,
+                7,
+                0,
+                4,
+                37,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        "matched_keyword": "network",
+        "category": "network_transit",
+        "source": "The Hacker News",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T15:28:31.436501"
+    },
+    {
+        "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+        "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+        "description": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it&rsquo;s a big &ldquo;however&rdquo;), the increasing use of mobile devices in business operations necessitates network security measures that are specifically",
+        "date": "Fri, 06 Feb 2026 16:00:00 +0530",
+        "raw_entry": {
+            "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://feeds.feedburner.com/TheHackersNews",
+                "value": "How Samsung Knox Helps Stop Your Network Security Breach"
+            },
+            "summary": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it&rsquo;s a big &ldquo;however&rdquo;), the increasing use of mobile devices in business operations necessitates network security measures that are specifically",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://feeds.feedburner.com/TheHackersNews",
+                "value": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it&rsquo;s a big &ldquo;however&rdquo;), the increasing use of mobile devices in business operations necessitates network security measures that are specifically"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYbHuhB2klNlaHkYykLYRjMjQVPrFD5GjaSmTiLJPzDkOGBVufabhBs2akKWk8RV3LBOvEqj2ANFmVcfqfixnoHAlShEtg6FZvSviNFYX1xmLxdRZwK3M87ElFVhJbArR7ZELSje8MoaPW2FnbHHIWFTpjSOxlPaP5KWEXzIJ8YkkMlzdUE01DTeDPKUw/s1600/samsung.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+            "id": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 16:00:00 +0530",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                10,
+                30,
+                0,
+                4,
+                37,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        "matched_keyword": "network",
+        "category": "network_transit",
+        "source": "The Hacker News",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T15:28:33.402097"
+    },
+    {
+        "title": "Flickr Security Incident Tied to Third-Party Email System",
+        "link": "https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/",
+        "description": "<p>Potential breach at Flickr exposes usernames, email addresses, IP addresses, and activity data.</p>\n<p>The post <a href=\"https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/\">Flickr Security Incident Tied to Third-Party Email System</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "date": "Fri, 06 Feb 2026 12:00:34 +0000",
+        "raw_entry": {
+            "title": "Flickr Security Incident Tied to Third-Party Email System",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "Flickr Security Incident Tied to Third-Party Email System"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/"
+                }
+            ],
+            "link": "https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/",
+            "authors": [
+                {
+                    "name": "Eduard Kovacs"
+                }
+            ],
+            "author": "Eduard Kovacs",
+            "author_detail": {
+                "name": "Eduard Kovacs"
+            },
+            "published": "Fri, 06 Feb 2026 12:00:34 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                12,
+                0,
+                34,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Data Breaches",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Flickr",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.securityweek.com/?p=45297",
+            "guidislink": false,
+            "summary": "<p>Potential breach at Flickr exposes usernames, email addresses, IP addresses, and activity data.</p>\n<p>The post <a href=\"https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/\">Flickr Security Incident Tied to Third-Party Email System</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "<p>Potential breach at Flickr exposes usernames, email addresses, IP addresses, and activity data.</p>\n<p>The post <a href=\"https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/\">Flickr Security Incident Tied to Third-Party Email System</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+            }
+        },
+        "source": "SecurityWeek",
+        "category": "network_transit",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:29:12.336768"
+    },
+    {
+        "title": "Living off the AI: The Next Evolution of Attacker Tradecraft",
+        "link": "https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/",
+        "description": "<p>Living off the AI isn’t a hypothetical but a natural continuation of the tradecraft we’ve all been defending against, now mapped onto assistants, agents, and MCP. </p>\n<p>The post <a href=\"https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/\">Living off the AI: The Next Evolution of Attacker Tradecraft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "date": "Fri, 06 Feb 2026 12:00:00 +0000",
+        "raw_entry": {
+            "title": "Living off the AI: The Next Evolution of Attacker Tradecraft",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "Living off the AI: The Next Evolution of Attacker Tradecraft"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/"
+                }
+            ],
+            "link": "https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/",
+            "authors": [
+                {
+                    "name": "Etay Maor"
+                }
+            ],
+            "author": "Etay Maor",
+            "author_detail": {
+                "name": "Etay Maor"
+            },
+            "published": "Fri, 06 Feb 2026 12:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                12,
+                0,
+                0,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Artificial Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "AI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "MCP",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "vibe coding",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.securityweek.com/?p=45282",
+            "guidislink": false,
+            "summary": "<p>Living off the AI isn’t a hypothetical but a natural continuation of the tradecraft we’ve all been defending against, now mapped onto assistants, agents, and MCP. </p>\n<p>The post <a href=\"https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/\">Living off the AI: The Next Evolution of Attacker Tradecraft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "<p>Living off the AI isn’t a hypothetical but a natural continuation of the tradecraft we’ve all been defending against, now mapped onto assistants, agents, and MCP. </p>\n<p>The post <a href=\"https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/\">Living off the AI: The Next Evolution of Attacker Tradecraft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+            }
+        },
+        "source": "SecurityWeek",
+        "category": "network_transit",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:29:13.332093"
+    },
+    {
+        "title": "In Other News: Record DDoS, Epstein’s Hacker, ESET Product Vulnerabilities",
+        "link": "https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/",
+        "description": "<p>Other noteworthy stories that might have slipped under the radar: AT&#038;T and Verizon response to Salt Typhoon, AI agents solve security challenges, man arrested in Poland for DDos Attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/\">In Other News: Record DDoS, Epstein&#8217;s Hacker, ESET Product Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "date": "Fri, 06 Feb 2026 12:00:00 +0000",
+        "raw_entry": {
+            "title": "In Other News: Record DDoS, Epstein’s Hacker, ESET Product Vulnerabilities",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "In Other News: Record DDoS, Epstein’s Hacker, ESET Product Vulnerabilities"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/"
+                }
+            ],
+            "link": "https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/",
+            "authors": [
+                {
+                    "name": "SecurityWeek News"
+                }
+            ],
+            "author": "SecurityWeek News",
+            "author_detail": {
+                "name": "SecurityWeek News"
+            },
+            "published": "Fri, 06 Feb 2026 12:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                12,
+                0,
+                0,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "In Other News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.securityweek.com/?p=45296",
+            "guidislink": false,
+            "summary": "<p>Other noteworthy stories that might have slipped under the radar: AT&#038;T and Verizon response to Salt Typhoon, AI agents solve security challenges, man arrested in Poland for DDos Attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/\">In Other News: Record DDoS, Epstein&#8217;s Hacker, ESET Product Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "<p>Other noteworthy stories that might have slipped under the radar: AT&#038;T and Verizon response to Salt Typhoon, AI agents solve security challenges, man arrested in Poland for DDos Attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/\">In Other News: Record DDoS, Epstein&#8217;s Hacker, ESET Product Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+            }
+        },
+        "matched_keyword": "ddos",
+        "category": "network_transit",
+        "source": "SecurityWeek",
+        "status": "accepted",
+        "content": "Error fetching content: 403 Client Error: Forbidden for url: https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/",
+        "captured_at": "2026-02-06T15:29:16.740563"
+    },
+    {
+        "title": "Airrived Emerges From Stealth With $6.1 Million in Funding",
+        "link": "https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/",
+        "description": "<p>The startup aims to unify SOC, GRC, IAM, vulnerability management, IT, and business operations through its Agentic OS platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/\">Airrived Emerges From Stealth With $6.1 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "date": "Fri, 06 Feb 2026 09:40:59 +0000",
+        "raw_entry": {
+            "title": "Airrived Emerges From Stealth With $6.1 Million in Funding",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "Airrived Emerges From Stealth With $6.1 Million in Funding"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/"
+                }
+            ],
+            "link": "https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/",
+            "authors": [
+                {
+                    "name": "Ionut Arghire"
+                }
+            ],
+            "author": "Ionut Arghire",
+            "author_detail": {
+                "name": "Ionut Arghire"
+            },
+            "published": "Fri, 06 Feb 2026 09:40:59 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                9,
+                40,
+                59,
+                4,
+                37,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Artificial Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybersecurity Funding",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "AI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Airrived",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "funding",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.securityweek.com/?p=45293",
+            "guidislink": false,
+            "summary": "<p>The startup aims to unify SOC, GRC, IAM, vulnerability management, IT, and business operations through its Agentic OS platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/\">Airrived Emerges From Stealth With $6.1 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.securityweek.com/feed/",
+                "value": "<p>The startup aims to unify SOC, GRC, IAM, vulnerability management, IT, and business operations through its Agentic OS platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/\">Airrived Emerges From Stealth With $6.1 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+            }
+        },
+        "source": "SecurityWeek",
+        "category": "network_transit",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:29:17.287132"
+    },
+    {
+        "title": "ETSI OpenSlice 2025Q4 Release Introduces AI Native Orchestration and Telco Cloud Advancements",
+        "link": "https://www.etsi.org/newsroom/news/2636-etsi-openslice-2025q4-release-introduces-ai-native-orchestration-and-telco-cloud-advancements",
+        "description": "<p><img src=\"https://www.etsi.org/images/News/2026/OPENSLICE2025Q4_348x239.jpg\" /></p><p><strong>Sophia Antipolis, France, 6 February 2026</strong></p>\n<p>ETSI’s Software Development Group for OpenSlice (SDG OSL) has released OpenSlice 2025Q4, delivering major advancements toward AI‑native, autonomous network operations. This release marks a significant evolution of the platform, bringing AI capabilities directly into the operational core.</p>\n\n<p>A key highlight is the introduction of the OpenSlice MCP Backend, enabling local LLM deployments that offer full data sovereignty and private model fine‑tuning. Combined with enhancements to the MCP Server, this AI foundation powers the new OpenSlice AI Assistant, providing a chat‑based interface to access platform tools securely and efficiently.</p>\n<p>The release also implements Agentic Orchestration, allowing OpenSlice to coordinate internal and external agents throughout a service lifecycle. This bridges the gap between intent and execution, supporting more autonomous and adaptive network behaviour.</p>\n<p>Strengthening its Telco Cloud layer, OpenSlice introduces GITER, a lightweight controller that uses Git for asynchronous coordination across distributed or intermittently connected environments. A new native controller for Nokia’s Network‑as‑Code (NaC) platform ensures seamless integration by mapping NaC entities to TMF Resource Specifications.</p>\n<p>In addition, a prototype TMF Product UI enhances product modelling by linking business logic to underlying cloud‑native controllers. A new repository of ready‑to‑deploy blueprints, including a full 5G Core, simplifies onboarding for new users.</p>\n<p><strong>Related Events</strong></p>\n<p>The <a href=\"https://osl.etsi.org/events/plenary-8/\">SDG OSL#8 Plenary Meeting</a> is currently being held at ETSI, collocated with <a href=\"https://www.etsi.org/events/2501-etsi-sns4sns-event-2\" target=\"_blank\">SNS4SNS 2026</a>&nbsp;where OpenSlice has delivered a in-depth tutorial and several demos. In addition, OpenSlice was featured in our first <a href=\"https://osl.etsi.org/events/joint-ecosystem-day-1/\">Joint SDG Ecosystem Day</a> back in November 2025, with three talks dedicated to OSL related research.</p>\n<p>Explore the new features of ETSI OpenSlice 2025Q4 Release through the Deployment Guide and Release Notes at: <a href=\"https://osl.etsi.org/news/release-2025q4/\">https://osl.etsi.org/news/release-2025q4/</a></p>",
+        "date": "Tue, 03 Feb 2026 10:45:00 +0100",
+        "raw_entry": {
+            "title": "ETSI OpenSlice 2025Q4 Release Introduces AI Native Orchestration and Telco Cloud Advancements",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.etsi.org/newsroom/news?format=feed",
+                "value": "ETSI OpenSlice 2025Q4 Release Introduces AI Native Orchestration and Telco Cloud Advancements"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.etsi.org/newsroom/news/2636-etsi-openslice-2025q4-release-introduces-ai-native-orchestration-and-telco-cloud-advancements"
+                }
+            ],
+            "link": "https://www.etsi.org/newsroom/news/2636-etsi-openslice-2025q4-release-introduces-ai-native-orchestration-and-telco-cloud-advancements",
+            "id": "https://www.etsi.org/newsroom/news/2636-etsi-openslice-2025q4-release-introduces-ai-native-orchestration-and-telco-cloud-advancements",
+            "guidislink": false,
+            "summary": "<p><img src=\"https://www.etsi.org/images/News/2026/OPENSLICE2025Q4_348x239.jpg\" /></p><p><strong>Sophia Antipolis, France, 6 February 2026</strong></p>\n<p>ETSI’s Software Development Group for OpenSlice (SDG OSL) has released OpenSlice 2025Q4, delivering major advancements toward AI‑native, autonomous network operations. This release marks a significant evolution of the platform, bringing AI capabilities directly into the operational core.</p>\n\n<p>A key highlight is the introduction of the OpenSlice MCP Backend, enabling local LLM deployments that offer full data sovereignty and private model fine‑tuning. Combined with enhancements to the MCP Server, this AI foundation powers the new OpenSlice AI Assistant, providing a chat‑based interface to access platform tools securely and efficiently.</p>\n<p>The release also implements Agentic Orchestration, allowing OpenSlice to coordinate internal and external agents throughout a service lifecycle. This bridges the gap between intent and execution, supporting more autonomous and adaptive network behaviour.</p>\n<p>Strengthening its Telco Cloud layer, OpenSlice introduces GITER, a lightweight controller that uses Git for asynchronous coordination across distributed or intermittently connected environments. A new native controller for Nokia’s Network‑as‑Code (NaC) platform ensures seamless integration by mapping NaC entities to TMF Resource Specifications.</p>\n<p>In addition, a prototype TMF Product UI enhances product modelling by linking business logic to underlying cloud‑native controllers. A new repository of ready‑to‑deploy blueprints, including a full 5G Core, simplifies onboarding for new users.</p>\n<p><strong>Related Events</strong></p>\n<p>The <a href=\"https://osl.etsi.org/events/plenary-8/\">SDG OSL#8 Plenary Meeting</a> is currently being held at ETSI, collocated with <a href=\"https://www.etsi.org/events/2501-etsi-sns4sns-event-2\" target=\"_blank\">SNS4SNS 2026</a>&nbsp;where OpenSlice has delivered a in-depth tutorial and several demos. In addition, OpenSlice was featured in our first <a href=\"https://osl.etsi.org/events/joint-ecosystem-day-1/\">Joint SDG Ecosystem Day</a> back in November 2025, with three talks dedicated to OSL related research.</p>\n<p>Explore the new features of ETSI OpenSlice 2025Q4 Release through the Deployment Guide and Release Notes at: <a href=\"https://osl.etsi.org/news/release-2025q4/\">https://osl.etsi.org/news/release-2025q4/</a></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.etsi.org/newsroom/news?format=feed",
+                "value": "<p><img src=\"https://www.etsi.org/images/News/2026/OPENSLICE2025Q4_348x239.jpg\" /></p><p><strong>Sophia Antipolis, France, 6 February 2026</strong></p>\n<p>ETSI’s Software Development Group for OpenSlice (SDG OSL) has released OpenSlice 2025Q4, delivering major advancements toward AI‑native, autonomous network operations. This release marks a significant evolution of the platform, bringing AI capabilities directly into the operational core.</p>\n\n<p>A key highlight is the introduction of the OpenSlice MCP Backend, enabling local LLM deployments that offer full data sovereignty and private model fine‑tuning. Combined with enhancements to the MCP Server, this AI foundation powers the new OpenSlice AI Assistant, providing a chat‑based interface to access platform tools securely and efficiently.</p>\n<p>The release also implements Agentic Orchestration, allowing OpenSlice to coordinate internal and external agents throughout a service lifecycle. This bridges the gap between intent and execution, supporting more autonomous and adaptive network behaviour.</p>\n<p>Strengthening its Telco Cloud layer, OpenSlice introduces GITER, a lightweight controller that uses Git for asynchronous coordination across distributed or intermittently connected environments. A new native controller for Nokia’s Network‑as‑Code (NaC) platform ensures seamless integration by mapping NaC entities to TMF Resource Specifications.</p>\n<p>In addition, a prototype TMF Product UI enhances product modelling by linking business logic to underlying cloud‑native controllers. A new repository of ready‑to‑deploy blueprints, including a full 5G Core, simplifies onboarding for new users.</p>\n<p><strong>Related Events</strong></p>\n<p>The <a href=\"https://osl.etsi.org/events/plenary-8/\">SDG OSL#8 Plenary Meeting</a> is currently being held at ETSI, collocated with <a href=\"https://www.etsi.org/events/2501-etsi-sns4sns-event-2\" target=\"_blank\">SNS4SNS 2026</a>&nbsp;where OpenSlice has delivered a in-depth tutorial and several demos. In addition, OpenSlice was featured in our first <a href=\"https://osl.etsi.org/events/joint-ecosystem-day-1/\">Joint SDG Ecosystem Day</a> back in November 2025, with three talks dedicated to OSL related research.</p>\n<p>Explore the new features of ETSI OpenSlice 2025Q4 Release through the Deployment Guide and Release Notes at: <a href=\"https://osl.etsi.org/news/release-2025q4/\">https://osl.etsi.org/news/release-2025q4/</a></p>"
+            },
+            "authors": [
+                {
+                    "name": "ETSI COMS TEAM",
+                    "email": "etsi@etsi.org"
+                }
+            ],
+            "author": "etsi@etsi.org (ETSI COMS TEAM)",
+            "author_detail": {
+                "name": "ETSI COMS TEAM",
+                "email": "etsi@etsi.org"
+            },
+            "tags": [
+                {
+                    "term": "News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "published": "Tue, 03 Feb 2026 10:45:00 +0100",
+            "published_parsed": [
+                2026,
+                2,
+                3,
+                9,
+                45,
+                0,
+                1,
+                34,
+                0
+            ]
+        },
+        "matched_keyword": "guide",
+        "category": "institutional_standards",
+        "source": "ETSI Standards",
+        "status": "accepted",
+        "content": "Could not extract content.",
+        "captured_at": "2026-02-06T15:34:28.056375"
+    },
+    {
+        "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (06 février 2026)",
+        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0130/",
+        "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+        "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+        "raw_entry": {
+            "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (06 février 2026)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Multiples vulnérabilités dans le noyau Linux de Red Hat (06 février 2026)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0130/"
+                }
+            ],
+            "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0130/",
+            "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
+            },
+            "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0130/",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 00:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                0,
+                4,
+                37,
+                0
+            ]
+        },
+        "source": "CERT-FR (Alerte Cyber)",
+        "category": "operational_alerts",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:36:32.791802"
+    },
+    {
+        "title": "Multiples vulnérabilités dans Asterisk (06 février 2026)",
+        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0123/",
+        "description": "De multiples vulnérabilités ont été découvertes dans Asterisk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+        "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+        "raw_entry": {
+            "title": "Multiples vulnérabilités dans Asterisk (06 février 2026)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Multiples vulnérabilités dans Asterisk (06 février 2026)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0123/"
+                }
+            ],
+            "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0123/",
+            "summary": "De multiples vulnérabilités ont été découvertes dans Asterisk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "De multiples vulnérabilités ont été découvertes dans Asterisk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+            },
+            "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0123/",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 00:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                0,
+                4,
+                37,
+                0
+            ]
+        },
+        "source": "CERT-FR (Alerte Cyber)",
+        "category": "operational_alerts",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:36:33.341769"
+    },
+    {
+        "title": "Vulnérabilité dans NetApp ONTAP 9 (06 février 2026)",
+        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0127/",
+        "description": "Une vulnérabilité a été découverte dans NetApp ONTAP 9. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.",
+        "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+        "raw_entry": {
+            "title": "Vulnérabilité dans NetApp ONTAP 9 (06 février 2026)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Vulnérabilité dans NetApp ONTAP 9 (06 février 2026)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0127/"
+                }
+            ],
+            "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0127/",
+            "summary": "Une vulnérabilité a été découverte dans NetApp ONTAP 9. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Une vulnérabilité a été découverte dans NetApp ONTAP 9. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service."
+            },
+            "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0127/",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 00:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                0,
+                4,
+                37,
+                0
+            ]
+        },
+        "source": "CERT-FR (Alerte Cyber)",
+        "category": "operational_alerts",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:36:33.923696"
+    },
+    {
+        "title": "Vulnérabilité dans ESET Management Agent (06 février 2026)",
+        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0126/",
+        "description": "Une vulnérabilité a été découverte dans ESET Management Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+        "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+        "raw_entry": {
+            "title": "Vulnérabilité dans ESET Management Agent (06 février 2026)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Vulnérabilité dans ESET Management Agent (06 février 2026)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0126/"
+                }
+            ],
+            "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0126/",
+            "summary": "Une vulnérabilité a été découverte dans ESET Management Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Une vulnérabilité a été découverte dans ESET Management Agent. Elle permet à un attaquant de provoquer une élévation de privilèges."
+            },
+            "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0126/",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 00:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                0,
+                4,
+                37,
+                0
+            ]
+        },
+        "source": "CERT-FR (Alerte Cyber)",
+        "category": "operational_alerts",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:36:34.500948"
+    },
+    {
+        "title": "Multiples vulnérabilités dans Tenable Nessus (06 février 2026)",
+        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0122/",
+        "description": "De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+        "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+        "raw_entry": {
+            "title": "Multiples vulnérabilités dans Tenable Nessus (06 février 2026)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Multiples vulnérabilités dans Tenable Nessus (06 février 2026)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0122/"
+                }
+            ],
+            "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0122/",
+            "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+            },
+            "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0122/",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 00:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                0,
+                4,
+                37,
+                0
+            ]
+        },
+        "source": "CERT-FR (Alerte Cyber)",
+        "category": "operational_alerts",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:36:35.029566"
+    },
+    {
+        "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (06 février 2026)",
+        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0129/",
+        "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+        "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+        "raw_entry": {
+            "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (06 février 2026)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (06 février 2026)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0129/"
+                }
+            ],
+            "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0129/",
+            "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+            },
+            "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0129/",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 00:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                0,
+                4,
+                37,
+                0
+            ]
+        },
+        "source": "CERT-FR (Alerte Cyber)",
+        "category": "operational_alerts",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:36:35.631812"
+    },
+    {
+        "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (06 février 2026)",
+        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0128/",
+        "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+        "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+        "raw_entry": {
+            "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (06 février 2026)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Multiples vulnérabilités dans le noyau Linux de SUSE (06 février 2026)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0128/"
+                }
+            ],
+            "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0128/",
+            "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+            },
+            "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0128/",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 00:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                0,
+                4,
+                37,
+                0
+            ]
+        },
+        "source": "CERT-FR (Alerte Cyber)",
+        "category": "operational_alerts",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:36:36.304086"
+    },
+    {
+        "title": "Multiples vulnérabilités dans Microsoft Edge (06 février 2026)",
+        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0124/",
+        "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+        "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+        "raw_entry": {
+            "title": "Multiples vulnérabilités dans Microsoft Edge (06 février 2026)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Multiples vulnérabilités dans Microsoft Edge (06 février 2026)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0124/"
+                }
+            ],
+            "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0124/",
+            "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
+            },
+            "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0124/",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 00:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                0,
+                4,
+                37,
+                0
+            ]
+        },
+        "source": "CERT-FR (Alerte Cyber)",
+        "category": "operational_alerts",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:36:37.040230"
+    },
+    {
+        "title": "Multiples vulnérabilités dans les produits Moxa (06 février 2026)",
+        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0125/",
+        "description": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service. L'éditeur, dans son bulletin de sécurité, fournit des recommandations de diminution des risques associés pour...",
+        "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+        "raw_entry": {
+            "title": "Multiples vulnérabilités dans les produits Moxa (06 février 2026)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Multiples vulnérabilités dans les produits Moxa (06 février 2026)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0125/"
+                }
+            ],
+            "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0125/",
+            "summary": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service. L'éditeur, dans son bulletin de sécurité, fournit des recommandations de diminution des risques associés pour...",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service. L'éditeur, dans son bulletin de sécurité, fournit des recommandations de diminution des risques associés pour..."
+            },
+            "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0125/",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 00:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                0,
+                4,
+                37,
+                0
+            ]
+        },
+        "matched_keyword": "bulletin",
+        "category": "operational_alerts",
+        "source": "CERT-FR (Alerte Cyber)",
+        "status": "accepted",
+        "content": "Premier Ministre\nS.G.D.S.N\nAgence nationale\nde la sÃ©curitÃ© des\nsystÃ¨mes d'information\nParis, le 06 fÃ©vrier 2026\nNÂ° CERTFR-2026-AVI-0125\nAffaire suivie par: CERT-FR\nAvis du CERT-FR\nObjet: Multiples vulnÃ©rabilitÃ©s dans les produits Moxa\nGestion du document\nRÃ©fÃ©rence\nCERTFR-2026-AVI-0125\nTitre\nMultiples vulnÃ©rabilitÃ©s dans les produits Moxa\nDate de la premiÃ¨re version\n06 fÃ©vrier 2026\nDate de la derniÃ¨re version\n06 fÃ©vrier 2026\nSource(s)\nBulletin de sÃ©curitÃ© Moxa MPSA-255121 du 06 fÃ©vrier 2026\nUne gestion de version dÃ©taillÃ©e se trouve Ã  la fin de ce document.\nRisques\nAtteinte Ã  la confidentialitÃ© des donnÃ©es\nDÃ©ni de service\nSystÃ¨mes affectÃ©s\nUC-1200A Series versions antÃ©rieures ou Ã©gales Ã  v1.4 sans le correctif de sÃ©curitÃ© 5.10.234-cip57-rt25-moxa9-1+deb11u2\nUC-2200A Series versions antÃ©rieures ou Ã©gales Ã  v1.4 sans le correctif de sÃ©curitÃ© 5.10.234-cip57-rt25-moxa9-1+deb11u2\nUC-3400A Series versions antÃ©rieures ou Ã©gales Ã  v1.4 sans le correctif de sÃ©curitÃ© 5.10.234-cip57-rt25-moxa9-1+deb11u2\nUC-4400A Series versions antÃ©rieures ou Ã©gales Ã  v1.4 sans le correctif de sÃ©curitÃ© 5.10.234-cip57-rt25-moxa9-1+deb11u2\nUC-8200 Series versions antÃ©rieures ou Ã©gales Ã  v1.4 sans le correctif de sÃ©curitÃ© 5.10.234-cip57-rt25-moxa9-1+deb11u2\nV1200 Series versions antÃ©rieures ou Ã©gales Ã  v1.2.0 sans le correctif de sÃ©curitÃ© 5.10.234-cip57-rt25-moxa9-1+deb11u2\nRÃ©sumÃ©\nDe multiples vulnÃ©rabilitÃ©s ont Ã©tÃ© dÃ©couvertes dans les produits Moxa. Elles permettent Ã  un attaquant de provoquer une atteinte Ã  la confidentialitÃ© des donnÃ©es et un dÃ©ni de service.\nL'Ã©diteur, dans son bulletin de sÃ©curitÃ©, fournit des recommandations de diminution des risques associÃ©s pour les produits V2406C WL Models.\nSolutions\nSe rÃ©fÃ©rer au bulletin de sÃ©curitÃ© de l'Ã©diteur pour l'obtention des correctifs (cf. section Documentation).\nDocumentation\nBulletin de sÃ©curitÃ© Moxa MPSA-255121 du 06 fÃ©vrier 2026\nhttps://www.moxa.com/en/support/product-support/security-advisory/mpsa-255121-cve-2026-0714-cve-2026-0715-multiple-vulnerabilities-in-industrial-computers\nRÃ©fÃ©rence CVE CVE-2026-0714\nhttps://www.cve.org/CVERecord?id=CVE-2026-0714\nRÃ©fÃ©rence CVE CVE-2026-0715\nhttps://www.cve.org/CVERecord?id=CVE-2026-0715\nGestion dÃ©taillÃ©e du document\nle 06 fÃ©vrier 2026\nVersion initiale",
+        "captured_at": "2026-02-06T15:36:46.653839"
+    },
+    {
+        "title": "Vulnérabilité dans les produits Juniper Networks (06 février 2026)",
+        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0121/",
+        "description": "Une vulnérabilité a été découverte dans les produits Juniper Networks. Elle permet à un attaquant de provoquer un déni de service à distance.",
+        "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+        "raw_entry": {
+            "title": "Vulnérabilité dans les produits Juniper Networks (06 février 2026)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Vulnérabilité dans les produits Juniper Networks (06 février 2026)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0121/"
+                }
+            ],
+            "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0121/",
+            "summary": "Une vulnérabilité a été découverte dans les produits Juniper Networks. Elle permet à un attaquant de provoquer un déni de service à distance.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Une vulnérabilité a été découverte dans les produits Juniper Networks. Elle permet à un attaquant de provoquer un déni de service à distance."
+            },
+            "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0121/",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 00:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                0,
+                4,
+                37,
+                0
+            ]
+        },
+        "source": "CERT-FR (Alerte Cyber)",
+        "category": "operational_alerts",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:36:47.237141"
+    },
+    {
+        "title": "Multiples vulnérabilités dans les produits IBM (06 février 2026)",
+        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0131/",
+        "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+        "date": "Fri, 06 Feb 2026 00:00:00 +0000",
+        "raw_entry": {
+            "title": "Multiples vulnérabilités dans les produits IBM (06 février 2026)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "Multiples vulnérabilités dans les produits IBM (06 février 2026)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0131/"
+                }
+            ],
+            "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0131/",
+            "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cert.ssi.gouv.fr/feed/",
+                "value": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+            },
+            "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0131/",
+            "guidislink": false,
+            "published": "Fri, 06 Feb 2026 00:00:00 +0000",
+            "published_parsed": [
+                2026,
+                2,
+                6,
+                0,
+                0,
+                0,
+                4,
+                37,
+                0
+            ]
+        },
+        "source": "CERT-FR (Alerte Cyber)",
+        "category": "operational_alerts",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:36:47.805948"
+    },
+    {
+        "title": "Data Tool to Triage Exploited Vulnerabilities Can Make KEV More Useful",
+        "link": "https://www.darkreading.com/threat-intelligence/data-tool-triage-exploited-vulnerabilities-make-kev-catalog-more-useful",
+        "description": "A disconnect exists between an organization's cybersecurity needs and lists like CISA's KEV Catalog. KEV Collider combines data from multiple open source vulnerability frameworks to help security teams quickly assess which are important, based on their priorities.",
+        "date": "Thu, 05 Feb 2026 20:53:34 GMT",
+        "raw_entry": {
+            "title": "Data Tool to Triage Exploited Vulnerabilities Can Make KEV More Useful",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.darkreading.com",
+                "value": "Data Tool to Triage Exploited Vulnerabilities Can Make KEV More Useful"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.darkreading.com/threat-intelligence/data-tool-triage-exploited-vulnerabilities-make-kev-catalog-more-useful"
+                }
+            ],
+            "link": "https://www.darkreading.com/threat-intelligence/data-tool-triage-exploited-vulnerabilities-make-kev-catalog-more-useful",
+            "summary": "A disconnect exists between an organization's cybersecurity needs and lists like CISA's KEV Catalog. KEV Collider combines data from multiple open source vulnerability frameworks to help security teams quickly assess which are important, based on their priorities.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.darkreading.com",
+                "value": "A disconnect exists between an organization's cybersecurity needs and lists like CISA's KEV Catalog. KEV Collider combines data from multiple open source vulnerability frameworks to help security teams quickly assess which are important, based on their priorities."
+            },
+            "published": "Thu, 05 Feb 2026 20:53:34 GMT",
+            "published_parsed": [
+                2026,
+                2,
+                5,
+                20,
+                53,
+                34,
+                3,
+                36,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Robert Lemos, Contributing Writer"
+                }
+            ],
+            "author": "Robert Lemos, Contributing Writer",
+            "author_detail": {
+                "name": "Robert Lemos, Contributing Writer"
+            },
+            "id": "https://www.darkreading.com/threat-intelligence/data-tool-triage-exploited-vulnerabilities-make-kev-catalog-more-useful",
+            "guidislink": false,
+            "media_thumbnail": [
+                {
+                    "url": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbadcc9a16d698aad/6984b208f81d8e07ce8a9119/kev-collider-runzero.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                }
+            ],
+            "href": "",
+            "media_content": [
+                {
+                    "url": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbadcc9a16d698aad/6984b208f81d8e07ce8a9119/kev-collider-runzero.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+                    "medium": "image"
+                }
+            ]
+        },
+        "source": "Dark Reading (IoT)",
+        "category": "operational_alerts",
+        "status": "rejected",
+        "content": "Content not fetched for filtered items.",
+        "captured_at": "2026-02-06T15:36:49.103714"
     }
 ]
